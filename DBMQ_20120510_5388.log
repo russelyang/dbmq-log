@@ -1,0 +1,11 @@
+5388,2012-05-10 12:36:17.570,DBMQScheduler.exe is starting
+5388,2012-05-10 12:36:17.570,ThreadPool::Run() --- starting ThreadPool
+5388,2012-05-10 12:36:17.570,In function CDBList::LoadDBSettings
+5388,2012-05-10 12:36:17.742,Done function CDBList::LoadDBSettings
+5388,2012-05-10 12:36:17.742,In function CDBList::Startup
+5388,2012-05-10 12:36:19.742,Done function CDBList::Startup
+5388,2012-05-10 12:36:19.742,ThreadPool::Run() --- create notification thread
+5388,2012-05-10 12:36:19.742,ThreadPool:Run() --- create monitor thraed
+5388,2012-05-10 12:36:19.758,ThreadPool::Run() --- create worker thread.
+5388,2012-05-10 12:36:19.773,ThreadPool::Run() --- create message reader thread.
+5388,2012-05-10 12:36:19.773,ThreadPool::Run() --- Thread pool started

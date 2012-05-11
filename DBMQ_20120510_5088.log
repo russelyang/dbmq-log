@@ -1,0 +1,2797 @@
+5088,2012-05-10 12:36:19.773,In function CMessageStore::Consume
+5088,2012-05-10 12:36:26.211,Consumer start processing message 42033410
+5088,2012-05-10 12:36:26.211,In function CQueuedMessage::Process
+5088,2012-05-10 12:36:26.211,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:36:26.211,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:36:26.539,Setting Message Status to completed
+5088,2012-05-10 12:36:26.539,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:36:26.555,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:36:26.555,Done function CQueuedMessage::Process
+5088,2012-05-10 12:36:26.555,Consumer finish processing message 42033410
+5088,2012-05-10 12:36:31.070,Consumer start processing message 22217415
+5088,2012-05-10 12:36:31.070,In function CQueuedMessage::Process
+5088,2012-05-10 12:36:31.070,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:36:31.070,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:36:32.555,Setting Message Status to completed
+5088,2012-05-10 12:36:32.555,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:36:32.570,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:36:32.570,Done function CQueuedMessage::Process
+5088,2012-05-10 12:36:32.570,Consumer finish processing message 22217415
+5088,2012-05-10 12:37:10.055,Consumer start processing message 42033458
+5088,2012-05-10 12:37:10.055,In function CQueuedMessage::Process
+5088,2012-05-10 12:37:10.055,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:37:10.055,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:37:10.337,Setting Message Status to completed
+5088,2012-05-10 12:37:10.337,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:37:10.337,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:37:10.352,Done function CQueuedMessage::Process
+5088,2012-05-10 12:37:10.352,Consumer finish processing message 42033458
+5088,2012-05-10 12:39:19.776,Consumer start processing message 34537061
+5088,2012-05-10 12:39:19.776,In function CQueuedMessage::Process
+5088,2012-05-10 12:39:19.776,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:39:19.776,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:39:19.869,Setting Message Status to completed
+5088,2012-05-10 12:39:19.869,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:39:19.901,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:39:19.901,Done function CQueuedMessage::Process
+5088,2012-05-10 12:39:19.901,Consumer finish processing message 34537061
+5088,2012-05-10 12:40:25.902,Consumer start processing message 709990
+5088,2012-05-10 12:40:25.902,In function CQueuedMessage::Process
+5088,2012-05-10 12:40:25.902,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:25.917,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:26.027,Setting Message Status to completed
+5088,2012-05-10 12:40:26.027,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:26.042,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:26.042,Done function CQueuedMessage::Process
+5088,2012-05-10 12:40:26.058,Consumer finish processing message 709990
+5088,2012-05-10 12:40:29.386,Consumer start processing message 42033509
+5088,2012-05-10 12:40:29.402,In function CQueuedMessage::Process
+5088,2012-05-10 12:40:29.402,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:29.402,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:29.620,Setting Message Status to completed
+5088,2012-05-10 12:40:29.620,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:29.636,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:29.652,Done function CQueuedMessage::Process
+5088,2012-05-10 12:40:29.652,Consumer finish processing message 42033509
+5088,2012-05-10 12:40:35.839,Consumer start processing message 37599969
+5088,2012-05-10 12:40:35.855,In function CQueuedMessage::Process
+5088,2012-05-10 12:40:35.855,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:35.855,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:36.777,Setting Message Status to completed
+5088,2012-05-10 12:40:36.777,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:36.777,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:36.792,Done function CQueuedMessage::Process
+5088,2012-05-10 12:40:36.792,Consumer finish processing message 37599969
+5088,2012-05-10 12:40:46.886,Consumer start processing message 37599985
+5088,2012-05-10 12:40:46.886,In function CQueuedMessage::Process
+5088,2012-05-10 12:40:46.886,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:46.902,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:47.136,Setting Message Status to completed
+5088,2012-05-10 12:40:47.136,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:47.152,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:47.152,Done function CQueuedMessage::Process
+5088,2012-05-10 12:40:47.167,Consumer finish processing message 37599985
+5088,2012-05-10 12:40:53.621,Consumer start processing message 34537166
+5088,2012-05-10 12:40:53.621,In function CQueuedMessage::Process
+5088,2012-05-10 12:40:53.621,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:53.621,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:40:53.714,Setting Message Status to completed
+5088,2012-05-10 12:40:53.714,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:53.730,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:40:53.730,Done function CQueuedMessage::Process
+5088,2012-05-10 12:40:53.730,Consumer finish processing message 34537166
+5088,2012-05-10 12:41:00.464,Consumer start processing message 37600016
+5088,2012-05-10 12:41:00.464,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:00.464,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:00.464,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:00.652,Setting Message Status to completed
+5088,2012-05-10 12:41:00.652,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:00.668,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:00.668,Done function CQueuedMessage::Process
+5088,2012-05-10 12:41:00.683,Consumer finish processing message 37600016
+5088,2012-05-10 12:41:10.121,Consumer start processing message 35897795
+5088,2012-05-10 12:41:10.121,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:10.136,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:10.152,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:10.230,Setting Message Status to completed
+5088,2012-05-10 12:41:10.246,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:10.293,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:10.293,Done function CQueuedMessage::Process
+5088,2012-05-10 12:41:10.293,Consumer finish processing message 35897795
+5088,2012-05-10 12:41:16.840,Consumer start processing message 711921
+5088,2012-05-10 12:41:16.840,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:16.840,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:16.871,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:17.199,Setting Message Status to completed
+5088,2012-05-10 12:41:17.199,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:17.215,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:17.230,Done function CQueuedMessage::Process
+5088,2012-05-10 12:41:17.230,Consumer finish processing message 711921
+5088,2012-05-10 12:41:23.527,Consumer start processing message 711952
+5088,2012-05-10 12:41:23.527,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:23.527,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:23.543,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:23.684,Setting Message Status to completed
+5088,2012-05-10 12:41:23.699,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:23.715,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:23.730,Done function CQueuedMessage::Process
+5088,2012-05-10 12:41:23.730,Consumer finish processing message 711952
+5088,2012-05-10 12:41:30.855,Consumer start processing message 23526920
+5088,2012-05-10 12:41:30.855,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:30.855,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:30.871,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:30.949,Setting Message Status to completed
+5088,2012-05-10 12:41:30.949,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:30.980,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:30.996,Done function CQueuedMessage::Process
+5088,2012-05-10 12:41:30.996,Consumer finish processing message 23526920
+5088,2012-05-10 12:41:38.074,Consumer start processing message 712011
+5088,2012-05-10 12:41:38.074,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:38.090,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:38.090,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:38.168,Setting Message Status to completed
+5088,2012-05-10 12:41:38.184,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:38.184,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:38.199,Done function CQueuedMessage::Process
+5088,2012-05-10 12:41:38.199,Consumer finish processing message 712011
+5088,2012-05-10 12:41:42.262,Consumer start processing message 46672030
+5088,2012-05-10 12:41:42.262,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:42.262,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:42.278,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:42.371,Setting Message Status to completed
+5088,2012-05-10 12:41:42.387,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:42.403,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:41:42.418,Done function CQueuedMessage::Process
+5088,2012-05-10 12:41:42.418,Consumer finish processing message 46672030
+5088,2012-05-10 12:41:47.543,Consumer start processing message 30711764
+5088,2012-05-10 12:41:47.543,In function CQueuedMessage::Process
+5088,2012-05-10 12:41:47.543,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:41:47.559,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:21.159,Setting Message Status to completed
+5088,2012-05-10 12:50:21.159,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:21.206,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:21.206,Done function CQueuedMessage::Process
+5088,2012-05-10 12:50:21.206,Consumer finish processing message 30711764
+5088,2012-05-10 12:50:28.128,Consumer start processing message 712002
+5088,2012-05-10 12:50:28.128,In function CQueuedMessage::Process
+5088,2012-05-10 12:50:28.144,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:28.144,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:28.300,Setting Message Status to completed
+5088,2012-05-10 12:50:28.300,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:28.331,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:28.331,Done function CQueuedMessage::Process
+5088,2012-05-10 12:50:28.347,Consumer finish processing message 712002
+5088,2012-05-10 12:50:34.862,Consumer start processing message 714402
+5088,2012-05-10 12:50:34.878,In function CQueuedMessage::Process
+5088,2012-05-10 12:50:34.878,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:34.878,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:35.003,Setting Message Status to completed
+5088,2012-05-10 12:50:35.019,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:35.019,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:35.019,Done function CQueuedMessage::Process
+5088,2012-05-10 12:50:35.034,Consumer finish processing message 714402
+5088,2012-05-10 12:50:42.300,Consumer start processing message 715305
+5088,2012-05-10 12:50:42.316,In function CQueuedMessage::Process
+5088,2012-05-10 12:50:42.316,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:42.331,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:42.456,Setting Message Status to completed
+5088,2012-05-10 12:50:42.456,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:42.456,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:42.472,Done function CQueuedMessage::Process
+5088,2012-05-10 12:50:42.472,Consumer finish processing message 715305
+5088,2012-05-10 12:50:51.644,Consumer start processing message 37139130
+5088,2012-05-10 12:50:51.644,In function CQueuedMessage::Process
+5088,2012-05-10 12:50:51.644,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:51.660,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:51.847,Setting Message Status to completed
+5088,2012-05-10 12:50:51.847,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:51.878,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:51.878,Done function CQueuedMessage::Process
+5088,2012-05-10 12:50:51.894,Consumer finish processing message 37139130
+5088,2012-05-10 12:50:58.613,Consumer start processing message 37139155
+5088,2012-05-10 12:50:58.613,In function CQueuedMessage::Process
+5088,2012-05-10 12:50:58.613,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:58.628,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:50:58.847,Setting Message Status to completed
+5088,2012-05-10 12:50:58.847,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:58.863,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:50:58.878,Done function CQueuedMessage::Process
+5088,2012-05-10 12:50:58.878,Consumer finish processing message 37139155
+5088,2012-05-10 12:51:05.785,Consumer start processing message 712875
+5088,2012-05-10 12:51:05.785,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:05.800,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:05.800,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:05.925,Setting Message Status to completed
+5088,2012-05-10 12:51:05.925,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:05.957,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:05.972,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:05.972,Consumer finish processing message 712875
+5088,2012-05-10 12:51:11.535,Consumer start processing message 714477
+5088,2012-05-10 12:51:11.550,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:11.550,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:11.566,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:11.675,Setting Message Status to completed
+5088,2012-05-10 12:51:11.691,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:11.691,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:11.691,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:11.707,Consumer finish processing message 714477
+5088,2012-05-10 12:51:18.410,Consumer start processing message 714509
+5088,2012-05-10 12:51:18.410,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:18.410,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:18.426,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:18.551,Setting Message Status to completed
+5088,2012-05-10 12:51:18.551,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:18.566,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:18.566,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:18.582,Consumer finish processing message 714509
+5088,2012-05-10 12:51:23.504,Consumer start processing message 30713343
+5088,2012-05-10 12:51:23.519,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:23.519,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:23.535,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:23.707,Setting Message Status to completed
+5088,2012-05-10 12:51:23.707,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:23.722,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:23.722,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:23.722,Consumer finish processing message 30713343
+5088,2012-05-10 12:51:29.082,Consumer start processing message 35895030
+5088,2012-05-10 12:51:29.098,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:29.098,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:29.098,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:29.238,Setting Message Status to completed
+5088,2012-05-10 12:51:29.238,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:29.254,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:29.269,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:29.269,Consumer finish processing message 35895030
+5088,2012-05-10 12:51:32.910,Consumer start processing message 714580
+5088,2012-05-10 12:51:32.910,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:32.926,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:32.926,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:33.035,Setting Message Status to completed
+5088,2012-05-10 12:51:33.035,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:33.051,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:33.051,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:33.066,Consumer finish processing message 714580
+5088,2012-05-10 12:51:40.082,Consumer start processing message 34538774
+5088,2012-05-10 12:51:40.082,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:40.098,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:40.113,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:40.238,Setting Message Status to completed
+5088,2012-05-10 12:51:40.238,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:40.270,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:40.285,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:40.285,Consumer finish processing message 34538774
+5088,2012-05-10 12:51:43.926,Consumer start processing message 30713436
+5088,2012-05-10 12:51:43.941,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:43.941,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:43.957,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:44.082,Setting Message Status to completed
+5088,2012-05-10 12:51:44.098,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:44.113,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:44.113,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:44.129,Consumer finish processing message 30713436
+5088,2012-05-10 12:51:48.317,Consumer start processing message 33899811
+5088,2012-05-10 12:51:48.317,In function CQueuedMessage::Process
+5088,2012-05-10 12:51:48.332,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:48.332,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:51:51.910,Setting Message Status to completed
+5088,2012-05-10 12:51:51.910,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:51.926,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:51:51.926,Done function CQueuedMessage::Process
+5088,2012-05-10 12:51:51.926,Consumer finish processing message 33899811
+5088,2012-05-10 12:52:00.207,Consumer start processing message 715476
+5088,2012-05-10 12:52:00.207,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:00.207,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:00.223,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:00.332,Setting Message Status to completed
+5088,2012-05-10 12:52:00.332,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:00.348,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:00.348,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:00.364,Consumer finish processing message 715476
+5088,2012-05-10 12:52:07.254,Consumer start processing message 30713520
+5088,2012-05-10 12:52:07.254,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:07.270,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:07.286,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:07.364,Setting Message Status to completed
+5088,2012-05-10 12:52:07.364,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:07.379,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:07.379,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:07.395,Consumer finish processing message 30713520
+5088,2012-05-10 12:52:10.457,Consumer start processing message 716391
+5088,2012-05-10 12:52:10.473,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:10.473,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:10.489,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:10.582,Setting Message Status to completed
+5088,2012-05-10 12:52:10.598,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:10.598,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:10.645,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:10.661,Consumer finish processing message 716391
+5088,2012-05-10 12:52:15.067,Consumer start processing message 716404
+5088,2012-05-10 12:52:15.067,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:15.067,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:15.082,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:15.192,Setting Message Status to completed
+5088,2012-05-10 12:52:15.207,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:15.223,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:15.223,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:15.223,Consumer finish processing message 716404
+5088,2012-05-10 12:52:19.739,Consumer start processing message 715533
+5088,2012-05-10 12:52:19.754,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:19.754,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:19.754,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:19.879,Setting Message Status to completed
+5088,2012-05-10 12:52:19.895,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:19.895,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:19.895,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:19.911,Consumer finish processing message 715533
+5088,2012-05-10 12:52:24.942,Consumer start processing message 37139422
+5088,2012-05-10 12:52:24.942,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:24.942,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:24.958,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:25.098,Setting Message Status to completed
+5088,2012-05-10 12:52:25.114,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:25.114,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:25.129,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:25.129,Consumer finish processing message 37139422
+5088,2012-05-10 12:52:29.161,Consumer start processing message 30713618
+5088,2012-05-10 12:52:29.161,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:29.176,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:29.176,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:29.301,Setting Message Status to completed
+5088,2012-05-10 12:52:29.301,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:29.301,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:29.317,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:29.317,Consumer finish processing message 30713618
+5088,2012-05-10 12:52:34.942,Consumer start processing message 30713644
+5088,2012-05-10 12:52:34.958,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:34.958,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:34.973,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:35.130,Setting Message Status to completed
+5088,2012-05-10 12:52:35.130,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:35.145,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:35.145,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:35.161,Consumer finish processing message 30713644
+5088,2012-05-10 12:52:42.286,Consumer start processing message 37139462
+5088,2012-05-10 12:52:42.302,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:42.302,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:42.302,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:42.583,Setting Message Status to completed
+5088,2012-05-10 12:52:42.583,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:42.614,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:42.661,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:42.661,Consumer finish processing message 37139462
+5088,2012-05-10 12:52:48.567,Consumer start processing message 716507
+5088,2012-05-10 12:52:48.567,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:48.583,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:48.583,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:48.677,Setting Message Status to completed
+5088,2012-05-10 12:52:48.692,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:48.708,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:48.724,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:48.724,Consumer finish processing message 716507
+5088,2012-05-10 12:52:54.442,Consumer start processing message 37601784
+5088,2012-05-10 12:52:54.442,In function CQueuedMessage::Process
+5088,2012-05-10 12:52:54.458,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:54.489,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:52:54.614,Setting Message Status to completed
+5088,2012-05-10 12:52:54.630,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:54.630,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:52:54.645,Done function CQueuedMessage::Process
+5088,2012-05-10 12:52:54.645,Consumer finish processing message 37601784
+5088,2012-05-10 12:53:00.005,Consumer start processing message 34539053
+5088,2012-05-10 12:53:00.021,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:00.021,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:00.036,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:00.349,Setting Message Status to completed
+5088,2012-05-10 12:53:00.364,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:00.411,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:00.442,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:00.442,Consumer finish processing message 34539053
+5088,2012-05-10 12:53:06.021,Consumer start processing message 34539074
+5088,2012-05-10 12:53:06.021,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:06.036,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:06.036,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:06.224,Setting Message Status to completed
+5088,2012-05-10 12:53:06.224,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:06.255,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:06.271,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:06.271,Consumer finish processing message 34539074
+5088,2012-05-10 12:53:10.880,Consumer start processing message 715727
+5088,2012-05-10 12:53:10.896,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:10.896,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:10.911,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:11.021,Setting Message Status to completed
+5088,2012-05-10 12:53:11.021,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:11.052,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:11.114,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:11.114,Consumer finish processing message 715727
+5088,2012-05-10 12:53:15.708,Consumer start processing message 715171
+5088,2012-05-10 12:53:15.724,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:15.724,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:15.724,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:15.802,Setting Message Status to completed
+5088,2012-05-10 12:53:15.802,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:15.818,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:15.849,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:15.849,Consumer finish processing message 715171
+5088,2012-05-10 12:53:22.755,Consumer start processing message 715214
+5088,2012-05-10 12:53:22.755,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:22.771,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:22.771,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:22.896,Setting Message Status to completed
+5088,2012-05-10 12:53:22.896,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:22.911,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:22.927,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:22.927,Consumer finish processing message 715214
+5088,2012-05-10 12:53:28.115,Consumer start processing message 34539144
+5088,2012-05-10 12:53:28.115,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:28.130,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:28.130,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:28.302,Setting Message Status to completed
+5088,2012-05-10 12:53:28.302,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:28.333,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:28.365,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:28.380,Consumer finish processing message 34539144
+5088,2012-05-10 12:53:34.083,Consumer start processing message 34539818
+5088,2012-05-10 12:53:34.099,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:34.099,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:34.115,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:34.568,Setting Message Status to completed
+5088,2012-05-10 12:53:34.568,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:34.630,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:34.630,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:34.646,Consumer finish processing message 34539818
+5088,2012-05-10 12:53:39.099,Consumer start processing message 37139643
+5088,2012-05-10 12:53:39.099,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:39.115,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:39.130,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:39.287,Setting Message Status to completed
+5088,2012-05-10 12:53:39.287,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:39.302,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:39.302,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:39.318,Consumer finish processing message 37139643
+5088,2012-05-10 12:53:43.334,Consumer start processing message 30713961
+5088,2012-05-10 12:53:43.334,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:43.334,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:43.349,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:43.552,Setting Message Status to completed
+5088,2012-05-10 12:53:43.552,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:43.568,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:43.584,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:43.584,Consumer finish processing message 30713961
+5088,2012-05-10 12:53:52.177,Consumer start processing message 34539216
+5088,2012-05-10 12:53:52.177,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:52.193,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:52.209,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:52.318,Setting Message Status to completed
+5088,2012-05-10 12:53:52.334,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:52.334,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:52.349,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:52.365,Consumer finish processing message 34539216
+5088,2012-05-10 12:53:59.021,Consumer start processing message 35895649
+5088,2012-05-10 12:53:59.021,In function CQueuedMessage::Process
+5088,2012-05-10 12:53:59.037,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:59.037,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:53:59.162,Setting Message Status to completed
+5088,2012-05-10 12:53:59.162,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:59.178,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:53:59.178,Done function CQueuedMessage::Process
+5088,2012-05-10 12:53:59.193,Consumer finish processing message 35895649
+5088,2012-05-10 12:54:09.865,Consumer start processing message 34540424
+5088,2012-05-10 12:54:09.865,In function CQueuedMessage::Process
+5088,2012-05-10 12:54:09.881,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:09.881,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:10.006,Setting Message Status to completed
+5088,2012-05-10 12:54:10.006,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:10.021,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:10.037,Done function CQueuedMessage::Process
+5088,2012-05-10 12:54:10.037,Consumer finish processing message 34540424
+5088,2012-05-10 12:54:16.006,Consumer start processing message 37602030
+5088,2012-05-10 12:54:16.006,In function CQueuedMessage::Process
+5088,2012-05-10 12:54:16.006,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:16.162,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:16.522,Setting Message Status to completed
+5088,2012-05-10 12:54:16.522,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:17.053,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:17.068,Done function CQueuedMessage::Process
+5088,2012-05-10 12:54:17.068,Consumer finish processing message 37602030
+5088,2012-05-10 12:54:24.162,Consumer start processing message 37139771
+5088,2012-05-10 12:54:24.178,In function CQueuedMessage::Process
+5088,2012-05-10 12:54:24.178,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:24.194,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:24.397,Setting Message Status to completed
+5088,2012-05-10 12:54:24.412,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:24.428,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:24.428,Done function CQueuedMessage::Process
+5088,2012-05-10 12:54:24.444,Consumer finish processing message 37139771
+5088,2012-05-10 12:54:34.553,Consumer start processing message 35897040
+5088,2012-05-10 12:54:34.569,In function CQueuedMessage::Process
+5088,2012-05-10 12:54:34.584,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:34.584,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:34.834,Setting Message Status to completed
+5088,2012-05-10 12:54:34.850,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:34.850,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:34.866,Done function CQueuedMessage::Process
+5088,2012-05-10 12:54:34.881,Consumer finish processing message 35897040
+5088,2012-05-10 12:54:41.116,Consumer start processing message 37139830
+5088,2012-05-10 12:54:41.116,In function CQueuedMessage::Process
+5088,2012-05-10 12:54:41.131,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:41.147,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:41.397,Setting Message Status to completed
+5088,2012-05-10 12:54:41.412,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:41.412,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:41.428,Done function CQueuedMessage::Process
+5088,2012-05-10 12:54:41.444,Consumer finish processing message 37139830
+5088,2012-05-10 12:54:52.053,Consumer start processing message 33214093
+5088,2012-05-10 12:54:52.069,In function CQueuedMessage::Process
+5088,2012-05-10 12:54:52.069,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:52.084,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:54:52.928,Setting Message Status to completed
+5088,2012-05-10 12:54:52.944,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:52.960,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:54:52.960,Done function CQueuedMessage::Process
+5088,2012-05-10 12:54:52.960,Consumer finish processing message 33214093
+5088,2012-05-10 12:55:02.960,Consumer start processing message 35895898
+5088,2012-05-10 12:55:02.975,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:02.991,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:02.991,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:03.116,Setting Message Status to completed
+5088,2012-05-10 12:55:03.132,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:03.147,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:03.163,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:03.163,Consumer finish processing message 35895898
+5088,2012-05-10 12:55:09.303,Consumer start processing message 37602203
+5088,2012-05-10 12:55:09.303,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:09.319,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:09.319,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:09.538,Setting Message Status to completed
+5088,2012-05-10 12:55:09.553,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:09.553,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:09.569,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:09.569,Consumer finish processing message 37602203
+5088,2012-05-10 12:55:18.991,Consumer start processing message 37139965
+5088,2012-05-10 12:55:19.007,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:19.007,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:19.022,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:19.272,Setting Message Status to completed
+5088,2012-05-10 12:55:19.288,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:19.304,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:19.319,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:19.335,Consumer finish processing message 37139965
+5088,2012-05-10 12:55:24.913,Consumer start processing message 34540672
+5088,2012-05-10 12:55:24.913,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:24.913,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:24.929,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:25.116,Setting Message Status to completed
+5088,2012-05-10 12:55:25.116,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:25.163,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:25.179,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:25.179,Consumer finish processing message 34540672
+5088,2012-05-10 12:55:33.273,Consumer start processing message 34540694
+5088,2012-05-10 12:55:33.273,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:33.288,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:33.288,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:33.601,Setting Message Status to completed
+5088,2012-05-10 12:55:33.601,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:33.616,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:33.632,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:33.632,Consumer finish processing message 34540694
+5088,2012-05-10 12:55:44.007,Consumer start processing message 37140032
+5088,2012-05-10 12:55:44.023,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:44.023,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:44.038,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:44.210,Setting Message Status to completed
+5088,2012-05-10 12:55:44.210,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:44.226,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:44.241,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:44.257,Consumer finish processing message 37140032
+5088,2012-05-10 12:55:50.757,Consumer start processing message 35897862
+5088,2012-05-10 12:55:50.757,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:50.773,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:50.788,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:51.085,Setting Message Status to completed
+5088,2012-05-10 12:55:51.101,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:51.117,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:51.132,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:51.132,Consumer finish processing message 35897862
+5088,2012-05-10 12:55:55.445,Consumer start processing message 23527180
+5088,2012-05-10 12:55:55.460,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:55.476,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:55.476,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:55.726,Setting Message Status to completed
+5088,2012-05-10 12:55:55.726,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:55.742,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:55:55.757,Done function CQueuedMessage::Process
+5088,2012-05-10 12:55:55.773,Consumer finish processing message 23527180
+5088,2012-05-10 12:55:59.804,Consumer start processing message 37602337
+5088,2012-05-10 12:55:59.804,In function CQueuedMessage::Process
+5088,2012-05-10 12:55:59.820,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:55:59.835,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:56:00.085,Setting Message Status to completed
+5088,2012-05-10 12:56:00.085,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:56:00.101,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:56:00.117,Done function CQueuedMessage::Process
+5088,2012-05-10 12:56:00.132,Consumer finish processing message 37602337
+5088,2012-05-10 12:56:03.429,Consumer start processing message 709730
+5088,2012-05-10 12:56:03.429,In function CQueuedMessage::Process
+5088,2012-05-10 12:56:03.445,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:56:03.460,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:56:04.320,Setting Message Status to completed
+5088,2012-05-10 12:56:04.335,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:56:04.351,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:56:04.367,Done function CQueuedMessage::Process
+5088,2012-05-10 12:56:04.382,Consumer finish processing message 709730
+5088,2012-05-10 12:56:10.586,Consumer start processing message 37602367
+5088,2012-05-10 12:56:10.601,In function CQueuedMessage::Process
+5088,2012-05-10 12:56:10.601,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:56:10.632,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:56:10.929,Setting Message Status to completed
+5088,2012-05-10 12:56:10.945,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:56:10.976,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:56:10.992,Done function CQueuedMessage::Process
+5088,2012-05-10 12:56:10.992,Consumer finish processing message 37602367
+5088,2012-05-10 12:56:15.867,Consumer start processing message 39660185
+5088,2012-05-10 12:56:15.867,In function CQueuedMessage::Process
+5088,2012-05-10 12:56:15.882,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:56:15.898,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:57:47.602,Setting Message Status to completed
+5088,2012-05-10 12:57:47.602,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:57:47.665,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:57:47.680,Done function CQueuedMessage::Process
+5088,2012-05-10 12:57:47.696,Consumer finish processing message 39660185
+5088,2012-05-10 12:57:51.681,Consumer start processing message 37602657
+5088,2012-05-10 12:57:51.696,In function CQueuedMessage::Process
+5088,2012-05-10 12:57:51.696,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:57:51.712,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:57:51.899,Setting Message Status to completed
+5088,2012-05-10 12:57:51.915,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:57:51.931,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:57:51.946,Done function CQueuedMessage::Process
+5088,2012-05-10 12:57:51.946,Consumer finish processing message 37602657
+5088,2012-05-10 12:57:59.196,Consumer start processing message 35896684
+5088,2012-05-10 12:57:59.212,In function CQueuedMessage::Process
+5088,2012-05-10 12:57:59.228,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:57:59.243,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:57:59.290,Setting Message Status to completed
+5088,2012-05-10 12:57:59.290,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:57:59.306,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:57:59.321,Done function CQueuedMessage::Process
+5088,2012-05-10 12:57:59.321,Consumer finish processing message 35896684
+5088,2012-05-10 12:58:04.009,Consumer start processing message 33900030
+5088,2012-05-10 12:58:04.024,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:04.040,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:04.056,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:04.337,Setting Message Status to completed
+5088,2012-05-10 12:58:04.353,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:04.368,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:04.384,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:04.384,Consumer finish processing message 33900030
+5088,2012-05-10 12:58:12.525,Consumer start processing message 35896747
+5088,2012-05-10 12:58:12.540,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:12.540,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:12.556,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:12.634,Setting Message Status to completed
+5088,2012-05-10 12:58:12.665,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:12.681,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:12.696,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:12.712,Consumer finish processing message 35896747
+5088,2012-05-10 12:58:19.556,Consumer start processing message 33900073
+5088,2012-05-10 12:58:19.556,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:19.572,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:19.587,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:19.868,Setting Message Status to completed
+5088,2012-05-10 12:58:19.868,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:19.915,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:19.931,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:19.947,Consumer finish processing message 33900073
+5088,2012-05-10 12:58:24.322,Consumer start processing message 34542513
+5088,2012-05-10 12:58:24.337,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:24.353,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:24.368,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:24.525,Setting Message Status to completed
+5088,2012-05-10 12:58:24.540,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:24.572,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:24.618,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:24.634,Consumer finish processing message 34542513
+5088,2012-05-10 12:58:29.978,Consumer start processing message 34541232
+5088,2012-05-10 12:58:29.994,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:29.994,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:30.009,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:30.119,Setting Message Status to completed
+5088,2012-05-10 12:58:30.134,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:30.134,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:30.150,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:30.150,Consumer finish processing message 34541232
+5088,2012-05-10 12:58:34.634,Consumer start processing message 35896827
+5088,2012-05-10 12:58:34.634,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:34.634,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:34.650,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:34.728,Setting Message Status to completed
+5088,2012-05-10 12:58:34.728,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:34.744,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:34.775,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:34.775,Consumer finish processing message 35896827
+5088,2012-05-10 12:58:38.275,Consumer start processing message 33900131
+5088,2012-05-10 12:58:38.275,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:38.291,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:38.291,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:38.478,Setting Message Status to completed
+5088,2012-05-10 12:58:38.494,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:38.509,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:38.525,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:38.525,Consumer finish processing message 33900131
+5088,2012-05-10 12:58:43.087,Consumer start processing message 37602802
+5088,2012-05-10 12:58:43.103,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:43.103,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:43.119,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:43.353,Setting Message Status to completed
+5088,2012-05-10 12:58:43.369,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:43.400,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:43.416,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:43.431,Consumer finish processing message 37602802
+5088,2012-05-10 12:58:48.978,Consumer start processing message 39660358
+5088,2012-05-10 12:58:48.994,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:48.994,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:49.009,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:49.181,Setting Message Status to completed
+5088,2012-05-10 12:58:49.197,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:49.228,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:49.244,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:49.259,Consumer finish processing message 39660358
+5088,2012-05-10 12:58:55.744,Consumer start processing message 23527715
+5088,2012-05-10 12:58:55.759,In function CQueuedMessage::Process
+5088,2012-05-10 12:58:55.759,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:55.775,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:58:56.009,Setting Message Status to completed
+5088,2012-05-10 12:58:56.009,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:56.025,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:58:56.041,Done function CQueuedMessage::Process
+5088,2012-05-10 12:58:56.041,Consumer finish processing message 23527715
+5088,2012-05-10 12:59:04.072,Consumer start processing message 34542652
+5088,2012-05-10 12:59:04.088,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:04.088,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:04.103,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:04.260,Setting Message Status to completed
+5088,2012-05-10 12:59:04.260,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:04.275,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:04.291,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:04.306,Consumer finish processing message 34542652
+5088,2012-05-10 12:59:11.135,Consumer start processing message 39660433
+5088,2012-05-10 12:59:11.135,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:11.135,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:11.150,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:11.603,Setting Message Status to completed
+5088,2012-05-10 12:59:11.635,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:11.650,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:11.666,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:11.682,Consumer finish processing message 39660433
+5088,2012-05-10 12:59:19.479,Consumer start processing message 35898423
+5088,2012-05-10 12:59:19.494,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:19.494,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:19.510,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:19.760,Setting Message Status to completed
+5088,2012-05-10 12:59:19.775,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:19.791,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:19.807,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:19.822,Consumer finish processing message 35898423
+5088,2012-05-10 12:59:25.854,Consumer start processing message 35898440
+5088,2012-05-10 12:59:25.854,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:25.885,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:25.885,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:26.104,Setting Message Status to completed
+5088,2012-05-10 12:59:26.104,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:26.119,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:26.135,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:26.151,Consumer finish processing message 35898440
+5088,2012-05-10 12:59:32.385,Consumer start processing message 42034592
+5088,2012-05-10 12:59:32.401,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:32.401,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:32.432,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:32.510,Setting Message Status to completed
+5088,2012-05-10 12:59:32.526,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:32.557,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:32.572,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:32.572,Consumer finish processing message 42034592
+5088,2012-05-10 12:59:38.557,Consumer start processing message 34542782
+5088,2012-05-10 12:59:38.557,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:38.557,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:38.573,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:38.729,Setting Message Status to completed
+5088,2012-05-10 12:59:38.729,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:38.760,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:38.776,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:38.791,Consumer finish processing message 34542782
+5088,2012-05-10 12:59:43.869,Consumer start processing message 716986
+5088,2012-05-10 12:59:43.869,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:43.885,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:43.901,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:44.041,Setting Message Status to completed
+5088,2012-05-10 12:59:44.057,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:44.104,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:44.119,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:44.135,Consumer finish processing message 716986
+5088,2012-05-10 12:59:49.448,Consumer start processing message 34542122
+5088,2012-05-10 12:59:49.463,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:49.463,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:49.479,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:49.666,Setting Message Status to completed
+5088,2012-05-10 12:59:49.666,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:49.682,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:49.682,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:49.698,Consumer finish processing message 34542122
+5088,2012-05-10 12:59:54.416,Consumer start processing message 35897250
+5088,2012-05-10 12:59:54.432,In function CQueuedMessage::Process
+5088,2012-05-10 12:59:54.432,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:54.448,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 12:59:54.510,Setting Message Status to completed
+5088,2012-05-10 12:59:54.510,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:54.526,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 12:59:54.557,Done function CQueuedMessage::Process
+5088,2012-05-10 12:59:54.573,Consumer finish processing message 35897250
+5088,2012-05-10 13:00:00.698,Consumer start processing message 34542164
+5088,2012-05-10 13:00:00.698,In function CQueuedMessage::Process
+5088,2012-05-10 13:00:00.713,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:00.713,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:00.838,Setting Message Status to completed
+5088,2012-05-10 13:00:00.854,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:00.870,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:00.901,Done function CQueuedMessage::Process
+5088,2012-05-10 13:00:00.917,Consumer finish processing message 34542164
+5088,2012-05-10 13:00:08.385,Consumer start processing message 35888411
+5088,2012-05-10 13:00:08.401,In function CQueuedMessage::Process
+5088,2012-05-10 13:00:08.401,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:08.417,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:09.479,Setting Message Status to completed
+5088,2012-05-10 13:00:09.495,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:09.526,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:09.542,Done function CQueuedMessage::Process
+5088,2012-05-10 13:00:09.542,Consumer finish processing message 35888411
+5088,2012-05-10 13:00:15.464,Consumer start processing message 42034805
+5088,2012-05-10 13:00:15.479,In function CQueuedMessage::Process
+5088,2012-05-10 13:00:15.479,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:15.479,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:15.573,Setting Message Status to completed
+5088,2012-05-10 13:00:15.573,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:15.604,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:15.620,Done function CQueuedMessage::Process
+5088,2012-05-10 13:00:15.620,Consumer finish processing message 42034805
+5088,2012-05-10 13:00:20.557,Consumer start processing message 34542232
+5088,2012-05-10 13:00:20.573,In function CQueuedMessage::Process
+5088,2012-05-10 13:00:20.573,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:20.589,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:20.682,Setting Message Status to completed
+5088,2012-05-10 13:00:20.682,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:20.714,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:00:20.729,Done function CQueuedMessage::Process
+5088,2012-05-10 13:00:20.745,Consumer finish processing message 34542232
+5088,2012-05-10 13:00:37.230,Consumer start processing message 37602879
+5088,2012-05-10 13:00:37.230,In function CQueuedMessage::Process
+5088,2012-05-10 13:00:37.245,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:00:37.245,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:02:35.340,Setting Message Status to completed
+5088,2012-05-10 13:02:35.356,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:02:35.356,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:02:35.372,Done function CQueuedMessage::Process
+5088,2012-05-10 13:02:35.387,Consumer finish processing message 37602879
+5088,2012-05-10 13:02:44.309,Consumer start processing message 717648
+5088,2012-05-10 13:02:44.325,In function CQueuedMessage::Process
+5088,2012-05-10 13:02:44.325,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:02:44.341,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:02:44.544,Setting Message Status to completed
+5088,2012-05-10 13:02:44.559,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:02:44.606,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:02:44.622,Done function CQueuedMessage::Process
+5088,2012-05-10 13:02:44.637,Consumer finish processing message 717648
+5088,2012-05-10 13:02:57.606,Consumer start processing message 40229939
+5088,2012-05-10 13:02:57.622,In function CQueuedMessage::Process
+5088,2012-05-10 13:02:57.638,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:02:57.653,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:02:59.309,Setting Message Status to completed
+5088,2012-05-10 13:02:59.325,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:02:59.341,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:02:59.341,Done function CQueuedMessage::Process
+5088,2012-05-10 13:02:59.356,Consumer finish processing message 40229939
+5088,2012-05-10 13:03:06.685,Consumer start processing message 34543572
+5088,2012-05-10 13:03:06.685,In function CQueuedMessage::Process
+5088,2012-05-10 13:03:06.716,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:06.731,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:06.950,Setting Message Status to completed
+5088,2012-05-10 13:03:06.950,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:06.981,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:06.997,Done function CQueuedMessage::Process
+5088,2012-05-10 13:03:06.997,Consumer finish processing message 34543572
+5088,2012-05-10 13:03:15.341,Consumer start processing message 32485107
+5088,2012-05-10 13:03:15.357,In function CQueuedMessage::Process
+5088,2012-05-10 13:03:15.357,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:15.372,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:15.466,Setting Message Status to completed
+5088,2012-05-10 13:03:15.466,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:15.482,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:15.482,Done function CQueuedMessage::Process
+5088,2012-05-10 13:03:15.497,Consumer finish processing message 32485107
+5088,2012-05-10 13:03:23.294,Consumer start processing message 34543629
+5088,2012-05-10 13:03:23.310,In function CQueuedMessage::Process
+5088,2012-05-10 13:03:23.310,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:23.325,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:23.435,Setting Message Status to completed
+5088,2012-05-10 13:03:23.450,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:23.466,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:23.482,Done function CQueuedMessage::Process
+5088,2012-05-10 13:03:23.497,Consumer finish processing message 34543629
+5088,2012-05-10 13:03:30.201,Consumer start processing message 39660928
+5088,2012-05-10 13:03:30.216,In function CQueuedMessage::Process
+5088,2012-05-10 13:03:30.216,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:30.232,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:30.372,Setting Message Status to completed
+5088,2012-05-10 13:03:30.388,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:30.466,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:30.482,Done function CQueuedMessage::Process
+5088,2012-05-10 13:03:30.529,Consumer finish processing message 39660928
+5088,2012-05-10 13:03:43.279,Consumer start processing message 32485227
+5088,2012-05-10 13:03:43.294,In function CQueuedMessage::Process
+5088,2012-05-10 13:03:43.294,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:43.310,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:43.419,Setting Message Status to completed
+5088,2012-05-10 13:03:43.419,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:43.435,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:43.435,Done function CQueuedMessage::Process
+5088,2012-05-10 13:03:43.451,Consumer finish processing message 32485227
+5088,2012-05-10 13:03:52.248,Consumer start processing message 34543754
+5088,2012-05-10 13:03:52.248,In function CQueuedMessage::Process
+5088,2012-05-10 13:03:52.263,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:52.279,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:52.404,Setting Message Status to completed
+5088,2012-05-10 13:03:52.420,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:52.435,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:52.451,Done function CQueuedMessage::Process
+5088,2012-05-10 13:03:52.451,Consumer finish processing message 34543754
+5088,2012-05-10 13:03:57.170,Consumer start processing message 37603169
+5088,2012-05-10 13:03:57.185,In function CQueuedMessage::Process
+5088,2012-05-10 13:03:57.185,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:57.201,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:03:57.373,Setting Message Status to completed
+5088,2012-05-10 13:03:57.373,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:57.388,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:03:57.388,Done function CQueuedMessage::Process
+5088,2012-05-10 13:03:57.404,Consumer finish processing message 37603169
+5088,2012-05-10 13:04:05.732,Consumer start processing message 34543814
+5088,2012-05-10 13:04:05.748,In function CQueuedMessage::Process
+5088,2012-05-10 13:04:05.748,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:05.763,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:05.951,Setting Message Status to completed
+5088,2012-05-10 13:04:05.967,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:05.982,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:05.998,Done function CQueuedMessage::Process
+5088,2012-05-10 13:04:06.013,Consumer finish processing message 34543814
+5088,2012-05-10 13:04:12.795,Consumer start processing message 34543845
+5088,2012-05-10 13:04:12.795,In function CQueuedMessage::Process
+5088,2012-05-10 13:04:12.810,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:12.826,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:13.029,Setting Message Status to completed
+5088,2012-05-10 13:04:13.029,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:13.045,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:13.060,Done function CQueuedMessage::Process
+5088,2012-05-10 13:04:13.076,Consumer finish processing message 34543845
+5088,2012-05-10 13:04:24.404,Consumer start processing message 39661176
+5088,2012-05-10 13:04:24.404,In function CQueuedMessage::Process
+5088,2012-05-10 13:04:24.404,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:24.436,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:24.545,Setting Message Status to completed
+5088,2012-05-10 13:04:24.545,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:24.576,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:24.592,Done function CQueuedMessage::Process
+5088,2012-05-10 13:04:24.607,Consumer finish processing message 39661176
+5088,2012-05-10 13:04:33.889,Consumer start processing message 34543926
+5088,2012-05-10 13:04:33.904,In function CQueuedMessage::Process
+5088,2012-05-10 13:04:33.904,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:33.920,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:34.076,Setting Message Status to completed
+5088,2012-05-10 13:04:34.092,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:34.108,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:34.123,Done function CQueuedMessage::Process
+5088,2012-05-10 13:04:34.123,Consumer finish processing message 34543926
+5088,2012-05-10 13:04:55.936,Consumer start processing message 39661327
+5088,2012-05-10 13:04:55.936,In function CQueuedMessage::Process
+5088,2012-05-10 13:04:55.952,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:55.967,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:04:56.045,Setting Message Status to completed
+5088,2012-05-10 13:04:56.061,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:56.092,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:04:56.108,Done function CQueuedMessage::Process
+5088,2012-05-10 13:04:56.108,Consumer finish processing message 39661327
+5088,2012-05-10 13:05:23.421,Consumer start processing message 39661468
+5088,2012-05-10 13:05:23.436,In function CQueuedMessage::Process
+5088,2012-05-10 13:05:23.436,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:05:23.452,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:05:23.514,Setting Message Status to completed
+5088,2012-05-10 13:05:23.530,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:05:23.546,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:05:23.561,Done function CQueuedMessage::Process
+5088,2012-05-10 13:05:23.561,Consumer finish processing message 39661468
+5088,2012-05-10 13:05:43.874,Consumer start processing message 39661582
+5088,2012-05-10 13:05:43.874,In function CQueuedMessage::Process
+5088,2012-05-10 13:05:43.890,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:05:43.921,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:05:44.093,Setting Message Status to completed
+5088,2012-05-10 13:05:44.093,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:05:44.312,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:05:44.312,Done function CQueuedMessage::Process
+5088,2012-05-10 13:05:44.327,Consumer finish processing message 39661582
+5088,2012-05-10 13:06:00.781,Consumer start processing message 39661651
+5088,2012-05-10 13:06:00.796,In function CQueuedMessage::Process
+5088,2012-05-10 13:06:00.796,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:00.812,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:00.906,Setting Message Status to completed
+5088,2012-05-10 13:06:00.906,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:00.937,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:00.952,Done function CQueuedMessage::Process
+5088,2012-05-10 13:06:00.952,Consumer finish processing message 39661651
+5088,2012-05-10 13:06:08.703,Consumer start processing message 34544313
+5088,2012-05-10 13:06:08.718,In function CQueuedMessage::Process
+5088,2012-05-10 13:06:08.718,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:08.734,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:08.874,Setting Message Status to completed
+5088,2012-05-10 13:06:08.874,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:08.906,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:08.906,Done function CQueuedMessage::Process
+5088,2012-05-10 13:06:08.921,Consumer finish processing message 34544313
+5088,2012-05-10 13:06:18.125,Consumer start processing message 35898626
+5088,2012-05-10 13:06:18.140,In function CQueuedMessage::Process
+5088,2012-05-10 13:06:18.156,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:18.187,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:18.250,Setting Message Status to completed
+5088,2012-05-10 13:06:18.265,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:18.281,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:18.296,Done function CQueuedMessage::Process
+5088,2012-05-10 13:06:18.296,Consumer finish processing message 35898626
+5088,2012-05-10 13:06:28.484,Consumer start processing message 22221547
+5088,2012-05-10 13:06:28.500,In function CQueuedMessage::Process
+5088,2012-05-10 13:06:28.500,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:28.515,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:28.625,Setting Message Status to completed
+5088,2012-05-10 13:06:28.625,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:28.640,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:28.656,Done function CQueuedMessage::Process
+5088,2012-05-10 13:06:28.656,Consumer finish processing message 22221547
+5088,2012-05-10 13:06:42.406,Consumer start processing message 35898728
+5088,2012-05-10 13:06:42.422,In function CQueuedMessage::Process
+5088,2012-05-10 13:06:42.422,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:42.437,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:42.547,Setting Message Status to completed
+5088,2012-05-10 13:06:42.547,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:42.562,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:42.578,Done function CQueuedMessage::Process
+5088,2012-05-10 13:06:42.578,Consumer finish processing message 35898728
+5088,2012-05-10 13:06:48.250,Consumer start processing message 34539840
+5088,2012-05-10 13:06:48.250,In function CQueuedMessage::Process
+5088,2012-05-10 13:06:48.266,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:48.266,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:48.937,Setting Message Status to completed
+5088,2012-05-10 13:06:48.953,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:48.969,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:48.969,Done function CQueuedMessage::Process
+5088,2012-05-10 13:06:48.984,Consumer finish processing message 34539840
+5088,2012-05-10 13:06:57.781,Consumer start processing message 37093272
+5088,2012-05-10 13:06:57.797,In function CQueuedMessage::Process
+5088,2012-05-10 13:06:57.797,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:57.813,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:06:57.891,Setting Message Status to completed
+5088,2012-05-10 13:06:57.906,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:57.922,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:06:57.922,Done function CQueuedMessage::Process
+5088,2012-05-10 13:06:57.938,Consumer finish processing message 37093272
+5088,2012-05-10 13:07:07.969,Consumer start processing message 39661986
+5088,2012-05-10 13:07:07.985,In function CQueuedMessage::Process
+5088,2012-05-10 13:07:07.985,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:07:08.000,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:07:08.094,Setting Message Status to completed
+5088,2012-05-10 13:07:08.094,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:07:08.125,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:07:08.125,Done function CQueuedMessage::Process
+5088,2012-05-10 13:07:08.141,Consumer finish processing message 39661986
+5088,2012-05-10 13:07:24.688,Consumer start processing message 23528723
+5088,2012-05-10 13:07:24.704,In function CQueuedMessage::Process
+5088,2012-05-10 13:07:24.704,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:07:24.719,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:07:25.313,Setting Message Status to completed
+5088,2012-05-10 13:07:25.313,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:07:25.329,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:07:25.329,Done function CQueuedMessage::Process
+5088,2012-05-10 13:07:25.344,Consumer finish processing message 23528723
+5088,2012-05-10 13:08:02.266,Consumer start processing message 39662264
+5088,2012-05-10 13:08:02.266,In function CQueuedMessage::Process
+5088,2012-05-10 13:08:02.282,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:08:02.282,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:08:02.376,Setting Message Status to completed
+5088,2012-05-10 13:08:02.376,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:08:02.423,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:08:02.438,Done function CQueuedMessage::Process
+5088,2012-05-10 13:08:02.438,Consumer finish processing message 39662264
+5088,2012-05-10 13:08:29.282,Consumer start processing message 39662417
+5088,2012-05-10 13:08:29.282,In function CQueuedMessage::Process
+5088,2012-05-10 13:08:29.298,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:08:29.314,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:08:29.392,Setting Message Status to completed
+5088,2012-05-10 13:08:29.407,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:08:29.423,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:08:29.439,Done function CQueuedMessage::Process
+5088,2012-05-10 13:08:29.439,Consumer finish processing message 39662417
+5088,2012-05-10 13:08:42.455,Consumer start processing message 46672166
+5088,2012-05-10 13:08:42.470,In function CQueuedMessage::Process
+5088,2012-05-10 13:08:42.470,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:08:42.486,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:08:42.564,Setting Message Status to completed
+5088,2012-05-10 13:08:42.580,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:08:42.595,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:08:42.611,Done function CQueuedMessage::Process
+5088,2012-05-10 13:08:42.626,Consumer finish processing message 46672166
+5088,2012-05-10 13:09:03.689,Consumer start processing message 46672251
+5088,2012-05-10 13:09:03.689,In function CQueuedMessage::Process
+5088,2012-05-10 13:09:03.689,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:09:03.705,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:09:03.767,Setting Message Status to completed
+5088,2012-05-10 13:09:03.783,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:09:03.799,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:09:03.799,Done function CQueuedMessage::Process
+5088,2012-05-10 13:09:03.814,Consumer finish processing message 46672251
+5088,2012-05-10 13:09:16.314,Consumer start processing message 39662675
+5088,2012-05-10 13:09:16.330,In function CQueuedMessage::Process
+5088,2012-05-10 13:09:16.330,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:09:16.346,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:09:16.424,Setting Message Status to completed
+5088,2012-05-10 13:09:16.439,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:09:16.439,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:09:16.455,Done function CQueuedMessage::Process
+5088,2012-05-10 13:09:16.471,Consumer finish processing message 39662675
+5088,2012-05-10 13:09:43.830,Consumer start processing message 46672437
+5088,2012-05-10 13:09:43.830,In function CQueuedMessage::Process
+5088,2012-05-10 13:09:43.846,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:09:43.846,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:09:43.924,Setting Message Status to completed
+5088,2012-05-10 13:09:43.940,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:09:43.955,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:09:43.955,Done function CQueuedMessage::Process
+5088,2012-05-10 13:09:43.955,Consumer finish processing message 46672437
+5088,2012-05-10 13:10:17.721,Consumer start processing message 46672574
+5088,2012-05-10 13:10:17.737,In function CQueuedMessage::Process
+5088,2012-05-10 13:10:17.737,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:10:17.753,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:10:17.815,Setting Message Status to completed
+5088,2012-05-10 13:10:17.831,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:10:17.862,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:10:17.878,Done function CQueuedMessage::Process
+5088,2012-05-10 13:10:17.878,Consumer finish processing message 46672574
+5088,2012-05-10 13:10:35.518,Consumer start processing message 46672672
+5088,2012-05-10 13:10:35.518,In function CQueuedMessage::Process
+5088,2012-05-10 13:10:35.534,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:10:35.534,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:10:35.612,Setting Message Status to completed
+5088,2012-05-10 13:10:35.628,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:10:35.643,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:10:35.643,Done function CQueuedMessage::Process
+5088,2012-05-10 13:10:35.659,Consumer finish processing message 46672672
+5088,2012-05-10 13:10:55.300,Consumer start processing message 46672770
+5088,2012-05-10 13:10:55.316,In function CQueuedMessage::Process
+5088,2012-05-10 13:10:55.316,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:10:55.331,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:10:55.409,Setting Message Status to completed
+5088,2012-05-10 13:10:55.409,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:10:55.425,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:10:55.441,Done function CQueuedMessage::Process
+5088,2012-05-10 13:10:55.441,Consumer finish processing message 46672770
+5088,2012-05-10 13:11:13.769,Consumer start processing message 46672880
+5088,2012-05-10 13:11:13.769,In function CQueuedMessage::Process
+5088,2012-05-10 13:11:13.785,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:11:13.800,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:11:13.910,Setting Message Status to completed
+5088,2012-05-10 13:11:13.910,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:11:13.972,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:11:13.988,Done function CQueuedMessage::Process
+5088,2012-05-10 13:11:14.003,Consumer finish processing message 46672880
+5088,2012-05-10 13:11:35.832,Consumer start processing message 23529084
+5088,2012-05-10 13:11:35.847,In function CQueuedMessage::Process
+5088,2012-05-10 13:11:35.847,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:11:35.863,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:11:36.254,Setting Message Status to completed
+5088,2012-05-10 13:11:36.254,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:11:36.285,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:11:36.300,Done function CQueuedMessage::Process
+5088,2012-05-10 13:11:36.300,Consumer finish processing message 23529084
+5088,2012-05-10 13:12:10.723,Consumer start processing message 33897147
+5088,2012-05-10 13:12:10.738,In function CQueuedMessage::Process
+5088,2012-05-10 13:12:10.738,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:12:10.754,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:12:11.770,Setting Message Status to completed
+5088,2012-05-10 13:12:11.770,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:12:11.785,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:12:11.785,Done function CQueuedMessage::Process
+5088,2012-05-10 13:12:11.801,Consumer finish processing message 33897147
+5088,2012-05-10 13:13:35.255,Consumer start processing message 23529249
+5088,2012-05-10 13:13:35.271,In function CQueuedMessage::Process
+5088,2012-05-10 13:13:35.271,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:13:35.286,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:13:35.505,Setting Message Status to completed
+5088,2012-05-10 13:13:35.505,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:13:35.536,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:13:35.552,Done function CQueuedMessage::Process
+5088,2012-05-10 13:13:35.552,Consumer finish processing message 23529249
+5088,2012-05-10 13:14:29.271,Consumer start processing message 23529319
+5088,2012-05-10 13:14:29.287,In function CQueuedMessage::Process
+5088,2012-05-10 13:14:29.287,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:14:29.303,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:14:29.709,Setting Message Status to completed
+5088,2012-05-10 13:14:29.709,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:14:29.725,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:14:29.725,Done function CQueuedMessage::Process
+5088,2012-05-10 13:14:29.740,Consumer finish processing message 23529319
+5088,2012-05-10 13:15:47.132,Consumer start processing message 32463637
+5088,2012-05-10 13:15:47.132,In function CQueuedMessage::Process
+5088,2012-05-10 13:15:47.147,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:15:47.163,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:15:47.335,Setting Message Status to completed
+5088,2012-05-10 13:15:47.351,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:15:47.366,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:15:47.382,Done function CQueuedMessage::Process
+5088,2012-05-10 13:15:47.382,Consumer finish processing message 32463637
+5088,2012-05-10 13:16:15.523,Consumer start processing message 23529447
+5088,2012-05-10 13:16:15.523,In function CQueuedMessage::Process
+5088,2012-05-10 13:16:15.538,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:16:15.538,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:16:16.148,Setting Message Status to completed
+5088,2012-05-10 13:16:16.163,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:16:16.163,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:16:16.179,Done function CQueuedMessage::Process
+5088,2012-05-10 13:16:16.179,Consumer finish processing message 23529447
+5088,2012-05-10 13:16:28.898,Consumer start processing message 32463785
+5088,2012-05-10 13:16:28.898,In function CQueuedMessage::Process
+5088,2012-05-10 13:16:28.914,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:16:28.914,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:16:28.992,Setting Message Status to completed
+5088,2012-05-10 13:16:29.007,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:16:29.023,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:16:29.023,Done function CQueuedMessage::Process
+5088,2012-05-10 13:16:29.039,Consumer finish processing message 32463785
+5088,2012-05-10 13:16:42.742,Consumer start processing message 32463817
+5088,2012-05-10 13:16:42.758,In function CQueuedMessage::Process
+5088,2012-05-10 13:16:42.758,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:16:42.789,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:16:42.851,Setting Message Status to completed
+5088,2012-05-10 13:16:42.867,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:16:42.898,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:16:42.914,Done function CQueuedMessage::Process
+5088,2012-05-10 13:16:42.914,Consumer finish processing message 32463817
+5088,2012-05-10 13:17:04.695,Consumer start processing message 32463876
+5088,2012-05-10 13:17:04.711,In function CQueuedMessage::Process
+5088,2012-05-10 13:17:04.711,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:04.727,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:04.820,Setting Message Status to completed
+5088,2012-05-10 13:17:04.836,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:04.852,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:04.883,Done function CQueuedMessage::Process
+5088,2012-05-10 13:17:04.883,Consumer finish processing message 32463876
+5088,2012-05-10 13:17:22.586,Consumer start processing message 34358682
+5088,2012-05-10 13:17:22.586,In function CQueuedMessage::Process
+5088,2012-05-10 13:17:22.602,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:22.602,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:27.914,Setting Message Status to completed
+5088,2012-05-10 13:17:27.930,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:27.946,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:27.961,Done function CQueuedMessage::Process
+5088,2012-05-10 13:17:27.961,Consumer finish processing message 34358682
+5088,2012-05-10 13:17:37.414,Consumer start processing message 32463999
+5088,2012-05-10 13:17:37.414,In function CQueuedMessage::Process
+5088,2012-05-10 13:17:37.430,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:37.446,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:37.524,Setting Message Status to completed
+5088,2012-05-10 13:17:37.524,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:37.539,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:37.539,Done function CQueuedMessage::Process
+5088,2012-05-10 13:17:37.555,Consumer finish processing message 32463999
+5088,2012-05-10 13:17:45.571,Consumer start processing message 37093412
+5088,2012-05-10 13:17:45.586,In function CQueuedMessage::Process
+5088,2012-05-10 13:17:45.602,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:45.602,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:45.711,Setting Message Status to completed
+5088,2012-05-10 13:17:45.711,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:45.727,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:45.743,Done function CQueuedMessage::Process
+5088,2012-05-10 13:17:45.743,Consumer finish processing message 37093412
+5088,2012-05-10 13:17:58.555,Consumer start processing message 32464477
+5088,2012-05-10 13:17:58.571,In function CQueuedMessage::Process
+5088,2012-05-10 13:17:58.571,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:58.587,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:17:58.743,Setting Message Status to completed
+5088,2012-05-10 13:17:58.743,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:58.758,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:17:58.758,Done function CQueuedMessage::Process
+5088,2012-05-10 13:17:58.774,Consumer finish processing message 32464477
+5088,2012-05-10 13:18:14.196,Consumer start processing message 34544416
+5088,2012-05-10 13:18:14.196,In function CQueuedMessage::Process
+5088,2012-05-10 13:18:14.212,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:18:14.227,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:18:14.993,Setting Message Status to completed
+5088,2012-05-10 13:18:14.993,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:18:15.009,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:18:15.009,Done function CQueuedMessage::Process
+5088,2012-05-10 13:18:15.024,Consumer finish processing message 34544416
+5088,2012-05-10 13:18:33.368,Consumer start processing message 37141012
+5088,2012-05-10 13:18:33.368,In function CQueuedMessage::Process
+5088,2012-05-10 13:18:33.384,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:18:33.415,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:18:33.650,Setting Message Status to completed
+5088,2012-05-10 13:18:33.650,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:18:33.665,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:18:33.681,Done function CQueuedMessage::Process
+5088,2012-05-10 13:18:33.681,Consumer finish processing message 37141012
+5088,2012-05-10 13:19:04.259,Consumer start processing message 32464551
+5088,2012-05-10 13:19:04.259,In function CQueuedMessage::Process
+5088,2012-05-10 13:19:04.275,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:19:04.291,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:19:04.384,Setting Message Status to completed
+5088,2012-05-10 13:19:04.400,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:19:04.416,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:19:04.431,Done function CQueuedMessage::Process
+5088,2012-05-10 13:19:04.431,Consumer finish processing message 32464551
+5088,2012-05-10 13:19:21.541,Consumer start processing message 37599222
+5088,2012-05-10 13:19:21.556,In function CQueuedMessage::Process
+5088,2012-05-10 13:19:21.556,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:19:21.556,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:19:22.478,Setting Message Status to completed
+5088,2012-05-10 13:19:22.478,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:19:22.510,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:19:22.510,Done function CQueuedMessage::Process
+5088,2012-05-10 13:19:22.510,Consumer finish processing message 37599222
+5088,2012-05-10 13:19:58.244,Consumer start processing message 32464872
+5088,2012-05-10 13:19:58.244,In function CQueuedMessage::Process
+5088,2012-05-10 13:19:58.260,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:19:58.260,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:19:58.338,Setting Message Status to completed
+5088,2012-05-10 13:19:58.338,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:19:58.354,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:19:58.354,Done function CQueuedMessage::Process
+5088,2012-05-10 13:19:58.369,Consumer finish processing message 32464872
+5088,2012-05-10 13:20:17.135,Consumer start processing message 37141045
+5088,2012-05-10 13:20:17.151,In function CQueuedMessage::Process
+5088,2012-05-10 13:20:17.151,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:17.167,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:17.292,Setting Message Status to completed
+5088,2012-05-10 13:20:17.292,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:17.307,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:17.323,Done function CQueuedMessage::Process
+5088,2012-05-10 13:20:17.323,Consumer finish processing message 37141045
+5088,2012-05-10 13:20:33.714,Consumer start processing message 37141118
+5088,2012-05-10 13:20:33.729,In function CQueuedMessage::Process
+5088,2012-05-10 13:20:33.729,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:33.745,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:33.854,Setting Message Status to completed
+5088,2012-05-10 13:20:33.854,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:33.870,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:33.885,Done function CQueuedMessage::Process
+5088,2012-05-10 13:20:33.885,Consumer finish processing message 37141118
+5088,2012-05-10 13:20:42.104,Consumer start processing message 37141155
+5088,2012-05-10 13:20:42.104,In function CQueuedMessage::Process
+5088,2012-05-10 13:20:42.120,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:42.136,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:42.261,Setting Message Status to completed
+5088,2012-05-10 13:20:42.276,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:42.307,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:42.323,Done function CQueuedMessage::Process
+5088,2012-05-10 13:20:42.323,Consumer finish processing message 37141155
+5088,2012-05-10 13:20:52.448,Consumer start processing message 37141204
+5088,2012-05-10 13:20:52.448,In function CQueuedMessage::Process
+5088,2012-05-10 13:20:52.464,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:52.479,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:20:52.620,Setting Message Status to completed
+5088,2012-05-10 13:20:52.620,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:52.667,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:20:52.667,Done function CQueuedMessage::Process
+5088,2012-05-10 13:20:52.683,Consumer finish processing message 37141204
+5088,2012-05-10 13:21:08.261,Consumer start processing message 37141280
+5088,2012-05-10 13:21:08.261,In function CQueuedMessage::Process
+5088,2012-05-10 13:21:08.277,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:21:08.277,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:21:08.417,Setting Message Status to completed
+5088,2012-05-10 13:21:08.417,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:21:08.433,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:21:08.448,Done function CQueuedMessage::Process
+5088,2012-05-10 13:21:08.464,Consumer finish processing message 37141280
+5088,2012-05-10 13:21:31.949,Consumer start processing message 37141394
+5088,2012-05-10 13:21:31.964,In function CQueuedMessage::Process
+5088,2012-05-10 13:21:31.964,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:21:31.980,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:21:32.105,Setting Message Status to completed
+5088,2012-05-10 13:21:32.105,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:21:32.121,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:21:32.136,Done function CQueuedMessage::Process
+5088,2012-05-10 13:21:32.136,Consumer finish processing message 37141394
+5088,2012-05-10 13:22:54.856,Consumer start processing message 38888109
+5088,2012-05-10 13:22:54.872,In function CQueuedMessage::Process
+5088,2012-05-10 13:22:54.872,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:22:54.872,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:22:55.090,Setting Message Status to completed
+5088,2012-05-10 13:22:55.106,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:22:55.137,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:22:55.153,Done function CQueuedMessage::Process
+5088,2012-05-10 13:22:55.153,Consumer finish processing message 38888109
+5088,2012-05-10 13:23:33.857,Consumer start processing message 38888217
+5088,2012-05-10 13:23:33.857,In function CQueuedMessage::Process
+5088,2012-05-10 13:23:33.872,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:23:33.872,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:23:34.075,Setting Message Status to completed
+5088,2012-05-10 13:23:34.075,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:23:34.169,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:23:34.185,Done function CQueuedMessage::Process
+5088,2012-05-10 13:23:34.185,Consumer finish processing message 38888217
+5088,2012-05-10 13:24:23.076,Consumer start processing message 38888360
+5088,2012-05-10 13:24:23.092,In function CQueuedMessage::Process
+5088,2012-05-10 13:24:23.092,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:24:23.092,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:24:23.248,Setting Message Status to completed
+5088,2012-05-10 13:24:23.248,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:24:23.326,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:24:23.342,Done function CQueuedMessage::Process
+5088,2012-05-10 13:24:23.342,Consumer finish processing message 38888360
+5088,2012-05-10 13:24:43.686,Consumer start processing message 38888415
+5088,2012-05-10 13:24:43.701,In function CQueuedMessage::Process
+5088,2012-05-10 13:24:43.717,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:24:43.717,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:24:43.873,Setting Message Status to completed
+5088,2012-05-10 13:24:43.889,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:24:43.951,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:24:43.967,Done function CQueuedMessage::Process
+5088,2012-05-10 13:24:43.967,Consumer finish processing message 38888415
+5088,2012-05-10 13:25:09.717,Consumer start processing message 32465307
+5088,2012-05-10 13:25:09.733,In function CQueuedMessage::Process
+5088,2012-05-10 13:25:09.733,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:25:09.748,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:25:09.967,Setting Message Status to completed
+5088,2012-05-10 13:25:09.967,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:25:10.092,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:25:10.108,Done function CQueuedMessage::Process
+5088,2012-05-10 13:25:10.123,Consumer finish processing message 32465307
+5088,2012-05-10 13:25:52.124,Consumer start processing message 32465395
+5088,2012-05-10 13:25:52.124,In function CQueuedMessage::Process
+5088,2012-05-10 13:25:52.124,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:25:52.140,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:25:52.390,Setting Message Status to completed
+5088,2012-05-10 13:25:52.405,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:25:52.515,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:25:52.530,Done function CQueuedMessage::Process
+5088,2012-05-10 13:25:52.530,Consumer finish processing message 32465395
+5088,2012-05-10 13:26:12.796,Consumer start processing message 32465438
+5088,2012-05-10 13:26:12.796,In function CQueuedMessage::Process
+5088,2012-05-10 13:26:12.812,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:26:12.812,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:26:13.062,Setting Message Status to completed
+5088,2012-05-10 13:26:13.062,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:26:13.077,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:26:13.109,Done function CQueuedMessage::Process
+5088,2012-05-10 13:26:13.109,Consumer finish processing message 32465438
+5088,2012-05-10 13:26:41.093,Consumer start processing message 38888746
+5088,2012-05-10 13:26:41.093,In function CQueuedMessage::Process
+5088,2012-05-10 13:26:41.109,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:26:41.125,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:26:41.343,Setting Message Status to completed
+5088,2012-05-10 13:26:41.343,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:26:41.406,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:26:41.406,Done function CQueuedMessage::Process
+5088,2012-05-10 13:26:41.421,Consumer finish processing message 38888746
+5088,2012-05-10 13:27:09.094,Consumer start processing message 32465561
+5088,2012-05-10 13:27:09.094,In function CQueuedMessage::Process
+5088,2012-05-10 13:27:09.094,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:27:09.109,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:27:09.234,Setting Message Status to completed
+5088,2012-05-10 13:27:09.234,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:27:09.250,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:27:09.266,Done function CQueuedMessage::Process
+5088,2012-05-10 13:27:09.281,Consumer finish processing message 32465561
+5088,2012-05-10 13:27:28.094,Consumer start processing message 33901038
+5088,2012-05-10 13:27:28.110,In function CQueuedMessage::Process
+5088,2012-05-10 13:27:28.110,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:27:28.125,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:27:28.297,Setting Message Status to completed
+5088,2012-05-10 13:27:28.297,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:27:28.313,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:27:28.313,Done function CQueuedMessage::Process
+5088,2012-05-10 13:27:28.328,Consumer finish processing message 33901038
+5088,2012-05-10 13:28:10.766,Consumer start processing message 32465710
+5088,2012-05-10 13:28:10.782,In function CQueuedMessage::Process
+5088,2012-05-10 13:28:10.798,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:28:10.813,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:28:10.969,Setting Message Status to completed
+5088,2012-05-10 13:28:10.969,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:28:10.985,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:28:11.001,Done function CQueuedMessage::Process
+5088,2012-05-10 13:28:11.001,Consumer finish processing message 32465710
+5088,2012-05-10 13:28:41.392,Consumer start processing message 38889123
+5088,2012-05-10 13:28:41.407,In function CQueuedMessage::Process
+5088,2012-05-10 13:28:41.407,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:28:41.423,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:28:41.564,Setting Message Status to completed
+5088,2012-05-10 13:28:41.579,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:28:41.673,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:28:41.689,Done function CQueuedMessage::Process
+5088,2012-05-10 13:28:41.689,Consumer finish processing message 38889123
+5088,2012-05-10 13:29:04.908,Consumer start processing message 32465820
+5088,2012-05-10 13:29:04.923,In function CQueuedMessage::Process
+5088,2012-05-10 13:29:04.923,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:04.939,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:05.158,Setting Message Status to completed
+5088,2012-05-10 13:29:05.173,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:05.345,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:05.361,Done function CQueuedMessage::Process
+5088,2012-05-10 13:29:05.361,Consumer finish processing message 32465820
+5088,2012-05-10 13:29:13.939,Consumer start processing message 38889222
+5088,2012-05-10 13:29:13.955,In function CQueuedMessage::Process
+5088,2012-05-10 13:29:13.955,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:13.970,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:14.283,Setting Message Status to completed
+5088,2012-05-10 13:29:14.298,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:14.392,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:14.408,Done function CQueuedMessage::Process
+5088,2012-05-10 13:29:14.423,Consumer finish processing message 38889222
+5088,2012-05-10 13:29:38.205,Consumer start processing message 38889293
+5088,2012-05-10 13:29:38.205,In function CQueuedMessage::Process
+5088,2012-05-10 13:29:38.221,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:38.221,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:38.361,Setting Message Status to completed
+5088,2012-05-10 13:29:38.361,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:38.377,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:38.392,Done function CQueuedMessage::Process
+5088,2012-05-10 13:29:38.408,Consumer finish processing message 38889293
+5088,2012-05-10 13:29:53.752,Consumer start processing message 38889338
+5088,2012-05-10 13:29:53.752,In function CQueuedMessage::Process
+5088,2012-05-10 13:29:53.752,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:53.768,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:29:53.986,Setting Message Status to completed
+5088,2012-05-10 13:29:54.002,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:54.018,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:29:54.033,Done function CQueuedMessage::Process
+5088,2012-05-10 13:29:54.049,Consumer finish processing message 38889338
+5088,2012-05-10 13:30:12.862,Consumer start processing message 38889400
+5088,2012-05-10 13:30:12.862,In function CQueuedMessage::Process
+5088,2012-05-10 13:30:12.877,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:30:12.877,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:30:13.049,Setting Message Status to completed
+5088,2012-05-10 13:30:13.049,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:30:13.159,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:30:13.174,Done function CQueuedMessage::Process
+5088,2012-05-10 13:30:13.174,Consumer finish processing message 38889400
+5088,2012-05-10 13:30:31.596,Consumer start processing message 37603441
+5088,2012-05-10 13:30:31.612,In function CQueuedMessage::Process
+5088,2012-05-10 13:30:31.612,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:30:31.612,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:30:31.909,Setting Message Status to completed
+5088,2012-05-10 13:30:31.909,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:30:31.924,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:30:31.940,Done function CQueuedMessage::Process
+5088,2012-05-10 13:30:31.956,Consumer finish processing message 37603441
+5088,2012-05-10 13:30:54.706,Consumer start processing message 32466054
+5088,2012-05-10 13:30:54.706,In function CQueuedMessage::Process
+5088,2012-05-10 13:30:54.722,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:30:54.722,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:30:54.956,Setting Message Status to completed
+5088,2012-05-10 13:30:54.972,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:30:54.972,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:30:54.987,Done function CQueuedMessage::Process
+5088,2012-05-10 13:30:55.003,Consumer finish processing message 32466054
+5088,2012-05-10 13:31:08.581,Consumer start processing message 38889547
+5088,2012-05-10 13:31:08.581,In function CQueuedMessage::Process
+5088,2012-05-10 13:31:08.597,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:31:08.597,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:31:08.784,Setting Message Status to completed
+5088,2012-05-10 13:31:08.800,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:31:08.925,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:31:08.925,Done function CQueuedMessage::Process
+5088,2012-05-10 13:31:08.940,Consumer finish processing message 38889547
+5088,2012-05-10 13:31:25.019,Consumer start processing message 37603548
+5088,2012-05-10 13:31:25.034,In function CQueuedMessage::Process
+5088,2012-05-10 13:31:25.034,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:31:25.050,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:31:25.347,Setting Message Status to completed
+5088,2012-05-10 13:31:25.347,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:31:25.363,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:31:25.378,Done function CQueuedMessage::Process
+5088,2012-05-10 13:31:25.378,Consumer finish processing message 37603548
+5088,2012-05-10 13:31:50.019,Consumer start processing message 38889668
+5088,2012-05-10 13:31:50.019,In function CQueuedMessage::Process
+5088,2012-05-10 13:31:50.035,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:31:50.035,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:31:50.238,Setting Message Status to completed
+5088,2012-05-10 13:31:50.238,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:31:50.379,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:31:50.394,Done function CQueuedMessage::Process
+5088,2012-05-10 13:31:50.394,Consumer finish processing message 38889668
+5088,2012-05-10 13:32:31.926,Consumer start processing message 38889779
+5088,2012-05-10 13:32:31.942,In function CQueuedMessage::Process
+5088,2012-05-10 13:32:31.942,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:32:31.957,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:32:32.113,Setting Message Status to completed
+5088,2012-05-10 13:32:32.113,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:32:32.223,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:32:32.223,Done function CQueuedMessage::Process
+5088,2012-05-10 13:32:32.238,Consumer finish processing message 38889779
+5088,2012-05-10 13:33:00.333,Consumer start processing message 37603284
+5088,2012-05-10 13:33:00.333,In function CQueuedMessage::Process
+5088,2012-05-10 13:33:00.348,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:33:00.364,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:33:02.583,Setting Message Status to completed
+5088,2012-05-10 13:33:02.598,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:33:02.598,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:33:02.614,Done function CQueuedMessage::Process
+5088,2012-05-10 13:33:02.614,Consumer finish processing message 37603284
+5088,2012-05-10 13:33:46.177,Consumer start processing message 37603832
+5088,2012-05-10 13:33:46.192,In function CQueuedMessage::Process
+5088,2012-05-10 13:33:46.192,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:33:46.192,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:33:46.614,Setting Message Status to completed
+5088,2012-05-10 13:33:46.630,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:33:46.646,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:33:46.661,Done function CQueuedMessage::Process
+5088,2012-05-10 13:33:46.661,Consumer finish processing message 37603832
+5088,2012-05-10 13:34:37.084,Consumer start processing message 37603931
+5088,2012-05-10 13:34:37.084,In function CQueuedMessage::Process
+5088,2012-05-10 13:34:37.084,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:34:37.099,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:34:37.443,Setting Message Status to completed
+5088,2012-05-10 13:34:37.459,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:34:37.459,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:34:37.474,Done function CQueuedMessage::Process
+5088,2012-05-10 13:34:37.490,Consumer finish processing message 37603931
+5088,2012-05-10 13:36:07.819,Consumer start processing message 34544430
+5088,2012-05-10 13:36:07.835,In function CQueuedMessage::Process
+5088,2012-05-10 13:36:07.835,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:36:07.851,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:36:08.507,Setting Message Status to completed
+5088,2012-05-10 13:36:08.507,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:36:08.522,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:36:08.522,Done function CQueuedMessage::Process
+5088,2012-05-10 13:36:08.538,Consumer finish processing message 34544430
+5088,2012-05-10 13:36:38.945,Consumer start processing message 34360707
+5088,2012-05-10 13:36:38.945,In function CQueuedMessage::Process
+5088,2012-05-10 13:36:38.960,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:36:38.960,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:36:39.148,Setting Message Status to completed
+5088,2012-05-10 13:36:39.148,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:36:39.163,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:36:39.163,Done function CQueuedMessage::Process
+5088,2012-05-10 13:36:39.179,Consumer finish processing message 34360707
+5088,2012-05-10 13:37:26.945,Consumer start processing message 37093491
+5088,2012-05-10 13:37:26.961,In function CQueuedMessage::Process
+5088,2012-05-10 13:37:26.961,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:37:26.977,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:37:27.617,Setting Message Status to completed
+5088,2012-05-10 13:37:27.633,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:37:27.648,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:37:27.664,Done function CQueuedMessage::Process
+5088,2012-05-10 13:37:27.680,Consumer finish processing message 37093491
+5088,2012-05-10 13:39:12.619,Consumer start processing message 32463077
+5088,2012-05-10 13:39:12.634,In function CQueuedMessage::Process
+5088,2012-05-10 13:39:12.634,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:39:12.650,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:39:13.290,Setting Message Status to completed
+5088,2012-05-10 13:39:13.290,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:39:13.306,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:39:13.306,Done function CQueuedMessage::Process
+5088,2012-05-10 13:39:13.322,Consumer finish processing message 32463077
+5088,2012-05-10 13:40:29.198,Consumer start processing message 37141582
+5088,2012-05-10 13:40:29.198,In function CQueuedMessage::Process
+5088,2012-05-10 13:40:29.213,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:40:29.229,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:40:29.385,Setting Message Status to completed
+5088,2012-05-10 13:40:29.401,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:40:29.432,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:40:29.432,Done function CQueuedMessage::Process
+5088,2012-05-10 13:40:29.448,Consumer finish processing message 37141582
+5088,2012-05-10 13:41:11.464,Consumer start processing message 37141729
+5088,2012-05-10 13:41:11.464,In function CQueuedMessage::Process
+5088,2012-05-10 13:41:11.479,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:41:11.495,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:41:11.745,Setting Message Status to completed
+5088,2012-05-10 13:41:11.745,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:41:11.776,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:41:11.792,Done function CQueuedMessage::Process
+5088,2012-05-10 13:41:11.792,Consumer finish processing message 37141729
+5088,2012-05-10 13:41:45.746,Consumer start processing message 34536830
+5088,2012-05-10 13:41:45.761,In function CQueuedMessage::Process
+5088,2012-05-10 13:41:45.761,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:41:45.777,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:41:46.152,Setting Message Status to completed
+5088,2012-05-10 13:41:46.152,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:41:46.167,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:41:46.183,Done function CQueuedMessage::Process
+5088,2012-05-10 13:41:46.183,Consumer finish processing message 34536830
+5088,2012-05-10 13:43:26.184,Consumer start processing message 40231784
+5088,2012-05-10 13:43:26.200,In function CQueuedMessage::Process
+5088,2012-05-10 13:43:26.200,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:43:26.216,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:43:26.481,Setting Message Status to completed
+5088,2012-05-10 13:43:26.497,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:43:26.512,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:43:26.528,Done function CQueuedMessage::Process
+5088,2012-05-10 13:43:26.528,Consumer finish processing message 40231784
+5088,2012-05-10 13:44:14.794,Consumer start processing message 22112928
+5088,2012-05-10 13:44:14.794,In function CQueuedMessage::Process
+5088,2012-05-10 13:44:14.810,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:44:14.810,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:44:14.982,Setting Message Status to completed
+5088,2012-05-10 13:44:14.997,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:44:15.013,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:44:15.029,Done function CQueuedMessage::Process
+5088,2012-05-10 13:44:15.044,Consumer finish processing message 22112928
+5088,2012-05-10 13:44:51.998,Consumer start processing message 37093521
+5088,2012-05-10 13:44:51.998,In function CQueuedMessage::Process
+5088,2012-05-10 13:44:52.014,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:44:52.029,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:44:52.154,Setting Message Status to completed
+5088,2012-05-10 13:44:52.154,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:44:52.185,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:44:52.185,Done function CQueuedMessage::Process
+5088,2012-05-10 13:44:52.201,Consumer finish processing message 37093521
+5088,2012-05-10 13:46:37.390,Consumer start processing message 34360584
+5088,2012-05-10 13:46:37.390,In function CQueuedMessage::Process
+5088,2012-05-10 13:46:37.405,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:46:37.405,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:46:38.218,Setting Message Status to completed
+5088,2012-05-10 13:46:38.234,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:46:38.249,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:46:38.249,Done function CQueuedMessage::Process
+5088,2012-05-10 13:46:38.265,Consumer finish processing message 34360584
+5088,2012-05-10 13:47:11.968,Consumer start processing message 35899280
+5088,2012-05-10 13:47:11.984,In function CQueuedMessage::Process
+5088,2012-05-10 13:47:11.984,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:47:11.984,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:47:12.109,Setting Message Status to completed
+5088,2012-05-10 13:47:12.125,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:47:12.140,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:47:12.156,Done function CQueuedMessage::Process
+5088,2012-05-10 13:47:12.156,Consumer finish processing message 35899280
+5088,2012-05-10 13:47:49.328,Consumer start processing message 32485670
+5088,2012-05-10 13:47:49.344,In function CQueuedMessage::Process
+5088,2012-05-10 13:47:49.344,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:47:49.375,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:47:51.938,Setting Message Status to completed
+5088,2012-05-10 13:47:51.938,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:47:51.969,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:47:51.985,Done function CQueuedMessage::Process
+5088,2012-05-10 13:47:51.985,Consumer finish processing message 32485670
+5088,2012-05-10 13:50:00.486,Consumer start processing message 37093782
+5088,2012-05-10 13:50:00.486,In function CQueuedMessage::Process
+5088,2012-05-10 13:50:00.502,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:50:00.517,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:50:01.877,Setting Message Status to completed
+5088,2012-05-10 13:50:01.892,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:50:01.908,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:50:01.908,Done function CQueuedMessage::Process
+5088,2012-05-10 13:50:01.924,Consumer finish processing message 37093782
+5088,2012-05-10 13:53:22.161,Consumer start processing message 33214757
+5088,2012-05-10 13:53:22.161,In function CQueuedMessage::Process
+5088,2012-05-10 13:53:22.161,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:53:22.176,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:53:22.301,Setting Message Status to completed
+5088,2012-05-10 13:53:22.301,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:53:22.317,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:53:22.333,Done function CQueuedMessage::Process
+5088,2012-05-10 13:53:22.333,Consumer finish processing message 33214757
+5088,2012-05-10 13:53:52.349,Consumer start processing message 33214849
+5088,2012-05-10 13:53:52.349,In function CQueuedMessage::Process
+5088,2012-05-10 13:53:52.364,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:53:52.380,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:53:52.567,Setting Message Status to completed
+5088,2012-05-10 13:53:52.583,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:53:52.599,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:53:52.630,Done function CQueuedMessage::Process
+5088,2012-05-10 13:53:52.630,Consumer finish processing message 33214849
+5088,2012-05-10 13:54:36.599,Consumer start processing message 33214993
+5088,2012-05-10 13:54:36.599,In function CQueuedMessage::Process
+5088,2012-05-10 13:54:36.615,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:54:36.630,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:54:36.834,Setting Message Status to completed
+5088,2012-05-10 13:54:36.849,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:54:36.865,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:54:36.880,Done function CQueuedMessage::Process
+5088,2012-05-10 13:54:36.880,Consumer finish processing message 33214993
+5088,2012-05-10 13:55:06.787,Consumer start processing message 33215081
+5088,2012-05-10 13:55:06.803,In function CQueuedMessage::Process
+5088,2012-05-10 13:55:06.803,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:55:06.834,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:55:06.959,Setting Message Status to completed
+5088,2012-05-10 13:55:06.975,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:55:06.990,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:55:07.006,Done function CQueuedMessage::Process
+5088,2012-05-10 13:55:07.006,Consumer finish processing message 33215081
+5088,2012-05-10 13:55:30.756,Consumer start processing message 32485841
+5088,2012-05-10 13:55:30.772,In function CQueuedMessage::Process
+5088,2012-05-10 13:55:30.772,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:55:30.787,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:55:30.881,Setting Message Status to completed
+5088,2012-05-10 13:55:30.881,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:55:30.912,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:55:30.928,Done function CQueuedMessage::Process
+5088,2012-05-10 13:55:30.928,Consumer finish processing message 32485841
+5088,2012-05-10 13:55:59.100,Consumer start processing message 33215253
+5088,2012-05-10 13:55:59.100,In function CQueuedMessage::Process
+5088,2012-05-10 13:55:59.116,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:55:59.116,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:55:59.335,Setting Message Status to completed
+5088,2012-05-10 13:55:59.335,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:55:59.413,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:55:59.413,Done function CQueuedMessage::Process
+5088,2012-05-10 13:55:59.428,Consumer finish processing message 33215253
+5088,2012-05-10 13:56:17.085,Consumer start processing message 32486089
+5088,2012-05-10 13:56:17.085,In function CQueuedMessage::Process
+5088,2012-05-10 13:56:17.100,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:56:17.100,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:56:17.194,Setting Message Status to completed
+5088,2012-05-10 13:56:17.210,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:56:17.210,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:56:17.225,Done function CQueuedMessage::Process
+5088,2012-05-10 13:56:17.241,Consumer finish processing message 32486089
+5088,2012-05-10 13:56:31.429,Consumer start processing message 32486167
+5088,2012-05-10 13:56:31.429,In function CQueuedMessage::Process
+5088,2012-05-10 13:56:31.429,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:56:31.444,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:56:31.522,Setting Message Status to completed
+5088,2012-05-10 13:56:31.522,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:56:31.538,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:56:31.538,Done function CQueuedMessage::Process
+5088,2012-05-10 13:56:31.554,Consumer finish processing message 32486167
+5088,2012-05-10 13:56:48.179,Consumer start processing message 32486253
+5088,2012-05-10 13:56:48.195,In function CQueuedMessage::Process
+5088,2012-05-10 13:56:48.195,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:56:48.226,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:56:48.304,Setting Message Status to completed
+5088,2012-05-10 13:56:48.304,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:56:48.320,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:56:48.335,Done function CQueuedMessage::Process
+5088,2012-05-10 13:56:48.335,Consumer finish processing message 32486253
+5088,2012-05-10 13:57:13.461,Consumer start processing message 718045
+5088,2012-05-10 13:57:13.476,In function CQueuedMessage::Process
+5088,2012-05-10 13:57:13.476,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:57:13.492,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:57:13.601,CQueuedMessage::Process threw _com_error exception : IDispatch error #55298
+5088,2012-05-10 13:57:13.617,database_id 28
+5088,2012-05-10 13:57:13.617,message_id 718045
+5088,2012-05-10 13:57:13.632,profile_id {4D4563C6-D207-4B4A-84F9-1F741F43C0B6}
+5088,2012-05-10 13:57:13.632,Ì:11:-2147220977:118:The server rejected one or more recipient addresses. The server response was: 501 5.1.3 Bad recipient address syntax
+:0::0::11:-2147220977:118:The server rejected one or more recipient addresses. The server response was: 501 5.1.3 Bad recipient address syntax
+:279:START: VBErrorInfo
+	Description: The server rejected one or more recipient addresses. The server response was: 501 5.1.3 Bad recipient address syntax
+
+	HelpContext: 1000440
+	HelpFile: 
+	LastDllError: 0
+	Number: -2147220977 (0x8004020F)
+	Source: HTEmail
+END: VBErrorInfo
+:299:START: AppInfo
+	ComputerName: PAZ02APP321
+	Operating System: Windows 2003 5.2.3790 (Service Pack 2)
+	Time: Thu 2012:05:10 13:57:13
+	Title: HTEmail
+	EXEName: HTEmail
+	Path: D:\Components\HTEmail
+	Version: 12.77.1
+	Unattended: True
+	Retained: True
+	StartMode: 1
+	Thread: 576
+END: AppInfo
+:271:START: ContextInfo
+	IsInTransaction: False
+	ContextInfo.ActivityId: {553F1F95-1F55-4DD1-BB50-1F8416C51473}
+	ContextInfo.ContextId: {DB59E1DD-8BC9-421B-820B-0A2816888320}
+	ContextInfo.IsInTransaction: False
+	IsSecurityEnabled: False
+	ItemCount: 0
+END: ContextInfo
+:38:START: ADODBErrors
+END: ADODBErrors
+:1:0:246:VB Error Source: HTEmail
+**	Computer: PAZ02APP321
+	App Path: D:\Components\HTEmail\HTEmail
+	Filename: Email.cls
+	Function: Send2SMTP
+**	Computer: PAZ02APP321
+	App Path: D:\Components\HTEmail\HTEmail
+	Filename: Email.cls
+	Function: sendHTE:
+5088,2012-05-10 13:57:13.648,Error -2147220977 Happened again
+5088,2012-05-10 13:57:13.648,In CQueuedMessage::Process - Setting Message Status to failed
+5088,2012-05-10 13:57:13.648,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:57:13.664,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:57:13.679,Done function CQueuedMessage::Process
+5088,2012-05-10 13:57:13.679,Consumer finish processing message 718045
+5088,2012-05-10 13:57:24.242,Consumer start processing message 33215461
+5088,2012-05-10 13:57:24.258,In function CQueuedMessage::Process
+5088,2012-05-10 13:57:24.258,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:57:24.273,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:57:24.398,Setting Message Status to completed
+5088,2012-05-10 13:57:24.414,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:57:24.429,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:57:24.445,Done function CQueuedMessage::Process
+5088,2012-05-10 13:57:24.445,Consumer finish processing message 33215461
+5088,2012-05-10 13:57:47.867,Consumer start processing message 33215544
+5088,2012-05-10 13:57:47.867,In function CQueuedMessage::Process
+5088,2012-05-10 13:57:47.883,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:57:47.883,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:57:48.117,Setting Message Status to completed
+5088,2012-05-10 13:57:48.133,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:57:48.195,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:57:48.211,Done function CQueuedMessage::Process
+5088,2012-05-10 13:57:48.227,Consumer finish processing message 33215544
+5088,2012-05-10 13:58:10.586,Consumer start processing message 33214646
+5088,2012-05-10 13:58:10.586,In function CQueuedMessage::Process
+5088,2012-05-10 13:58:10.602,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:58:10.617,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:58:12.571,Setting Message Status to completed
+5088,2012-05-10 13:58:12.571,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:58:12.602,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:58:12.602,Done function CQueuedMessage::Process
+5088,2012-05-10 13:58:12.618,Consumer finish processing message 33214646
+5088,2012-05-10 13:59:09.040,Consumer start processing message 33215814
+5088,2012-05-10 13:59:09.040,In function CQueuedMessage::Process
+5088,2012-05-10 13:59:09.040,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:59:09.056,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 13:59:09.212,Setting Message Status to completed
+5088,2012-05-10 13:59:09.212,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:59:09.228,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 13:59:09.228,Done function CQueuedMessage::Process
+5088,2012-05-10 13:59:09.243,Consumer finish processing message 33215814
+5088,2012-05-10 14:00:05.181,Consumer start processing message 33215995
+5088,2012-05-10 14:00:05.197,In function CQueuedMessage::Process
+5088,2012-05-10 14:00:05.197,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:00:05.213,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:00:05.385,Setting Message Status to completed
+5088,2012-05-10 14:00:05.385,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:00:05.463,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:00:05.478,Done function CQueuedMessage::Process
+5088,2012-05-10 14:00:05.478,Consumer finish processing message 33215995
+5088,2012-05-10 14:00:21.932,Consumer start processing message 718053
+5088,2012-05-10 14:00:21.932,In function CQueuedMessage::Process
+5088,2012-05-10 14:00:21.932,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:00:21.947,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:00:22.119,CQueuedMessage::Process threw _com_error exception : IDispatch error #55298
+5088,2012-05-10 14:00:22.119,database_id 28
+5088,2012-05-10 14:00:22.135,message_id 718053
+5088,2012-05-10 14:00:22.150,profile_id {4D4563C6-D207-4B4A-84F9-1F741F43C0B6}
+5088,2012-05-10 14:00:22.150,Ì:11:-2147220977:118:The server rejected one or more recipient addresses. The server response was: 501 5.1.3 Bad recipient address syntax
+:0::0::11:-2147220977:118:The server rejected one or more recipient addresses. The server response was: 501 5.1.3 Bad recipient address syntax
+:279:START: VBErrorInfo
+	Description: The server rejected one or more recipient addresses. The server response was: 501 5.1.3 Bad recipient address syntax
+
+	HelpContext: 1000440
+	HelpFile: 
+	LastDllError: 0
+	Number: -2147220977 (0x8004020F)
+	Source: HTEmail
+END: VBErrorInfo
+:299:START: AppInfo
+	ComputerName: PAZ02APP321
+	Operating System: Windows 2003 5.2.3790 (Service Pack 2)
+	Time: Thu 2012:05:10 14:00:22
+	Title: HTEmail
+	EXEName: HTEmail
+	Path: D:\Components\HTEmail
+	Version: 12.77.1
+	Unattended: True
+	Retained: True
+	StartMode: 1
+	Thread: 576
+END: AppInfo
+:271:START: ContextInfo
+	IsInTransaction: False
+	ContextInfo.ActivityId: {ADE684C7-6496-44D0-AB27-CDA83F71C5B8}
+	ContextInfo.ContextId: {F1973209-3686-4D6E-BC89-822D8022141F}
+	ContextInfo.IsInTransaction: False
+	IsSecurityEnabled: False
+	ItemCount: 0
+END: ContextInfo
+:38:START: ADODBErrors
+END: ADODBErrors
+:1:0:246:VB Error Source: HTEmail
+**	Computer: PAZ02APP321
+	App Path: D:\Components\HTEmail\HTEmail
+	Filename: Email.cls
+	Function: Send2SMTP
+**	Computer: PAZ02APP321
+	App Path: D:\Components\HTEmail\HTEmail
+	Filename: Email.cls
+	Function: sendHTE:
+5088,2012-05-10 14:00:22.166,Error -2147220977 Happened again
+5088,2012-05-10 14:00:22.166,In CQueuedMessage::Process - Setting Message Status to failed
+5088,2012-05-10 14:00:22.166,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:00:22.182,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:00:22.182,Done function CQueuedMessage::Process
+5088,2012-05-10 14:00:22.197,Consumer finish processing message 718053
+5088,2012-05-10 14:00:36.822,Consumer start processing message 33216101
+5088,2012-05-10 14:00:36.822,In function CQueuedMessage::Process
+5088,2012-05-10 14:00:36.838,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:00:36.838,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:00:37.026,Setting Message Status to completed
+5088,2012-05-10 14:00:37.041,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:00:37.072,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:00:37.088,Done function CQueuedMessage::Process
+5088,2012-05-10 14:00:37.088,Consumer finish processing message 33216101
+5088,2012-05-10 14:01:06.760,Consumer start processing message 33216214
+5088,2012-05-10 14:01:06.776,In function CQueuedMessage::Process
+5088,2012-05-10 14:01:06.776,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:01:06.792,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:01:06.901,Setting Message Status to completed
+5088,2012-05-10 14:01:06.917,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:01:06.917,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:01:06.932,Done function CQueuedMessage::Process
+5088,2012-05-10 14:01:06.948,Consumer finish processing message 33216214
+5088,2012-05-10 14:02:52.652,Consumer start processing message 30714316
+5088,2012-05-10 14:02:52.668,In function CQueuedMessage::Process
+5088,2012-05-10 14:02:52.668,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:02:52.684,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:02:52.809,Setting Message Status to completed
+5088,2012-05-10 14:02:52.809,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:02:52.824,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:02:52.824,Done function CQueuedMessage::Process
+5088,2012-05-10 14:02:52.840,Consumer finish processing message 30714316
+5088,2012-05-10 14:03:17.637,Consumer start processing message 30714400
+5088,2012-05-10 14:03:17.653,In function CQueuedMessage::Process
+5088,2012-05-10 14:03:17.653,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:03:17.668,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:03:17.856,Setting Message Status to completed
+5088,2012-05-10 14:03:17.856,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:03:17.934,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:03:17.950,Done function CQueuedMessage::Process
+5088,2012-05-10 14:03:17.950,Consumer finish processing message 30714400
+5088,2012-05-10 14:03:43.356,Consumer start processing message 37141907
+5088,2012-05-10 14:03:43.372,In function CQueuedMessage::Process
+5088,2012-05-10 14:03:43.372,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:03:43.387,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:03:43.575,Setting Message Status to completed
+5088,2012-05-10 14:03:43.575,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:03:43.794,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:03:43.809,Done function CQueuedMessage::Process
+5088,2012-05-10 14:03:43.825,Consumer finish processing message 37141907
+5088,2012-05-10 14:04:06.497,Consumer start processing message 37141981
+5088,2012-05-10 14:04:06.513,In function CQueuedMessage::Process
+5088,2012-05-10 14:04:06.528,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:04:06.544,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:04:06.685,Setting Message Status to completed
+5088,2012-05-10 14:04:06.685,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:04:06.700,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:04:06.716,Done function CQueuedMessage::Process
+5088,2012-05-10 14:04:06.731,Consumer finish processing message 37141981
+5088,2012-05-10 14:04:22.294,Consumer start processing message 37142031
+5088,2012-05-10 14:04:22.294,In function CQueuedMessage::Process
+5088,2012-05-10 14:04:22.310,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:04:22.310,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:04:22.482,Setting Message Status to completed
+5088,2012-05-10 14:04:22.497,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:04:22.497,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:04:22.513,Done function CQueuedMessage::Process
+5088,2012-05-10 14:04:22.529,Consumer finish processing message 37142031
+5088,2012-05-10 14:04:48.404,Consumer start processing message 37142134
+5088,2012-05-10 14:04:48.404,In function CQueuedMessage::Process
+5088,2012-05-10 14:04:48.419,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:04:48.419,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:04:48.560,Setting Message Status to completed
+5088,2012-05-10 14:04:48.576,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:04:48.591,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:04:48.607,Done function CQueuedMessage::Process
+5088,2012-05-10 14:04:48.607,Consumer finish processing message 37142134
+5088,2012-05-10 14:05:07.310,Consumer start processing message 30714733
+5088,2012-05-10 14:05:07.326,In function CQueuedMessage::Process
+5088,2012-05-10 14:05:07.342,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:05:07.342,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:05:07.545,Setting Message Status to completed
+5088,2012-05-10 14:05:07.560,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:05:07.623,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:05:07.623,Done function CQueuedMessage::Process
+5088,2012-05-10 14:05:07.638,Consumer finish processing message 30714733
+5088,2012-05-10 14:05:29.514,Consumer start processing message 37142282
+5088,2012-05-10 14:05:29.514,In function CQueuedMessage::Process
+5088,2012-05-10 14:05:29.529,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:05:29.529,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:05:29.732,Setting Message Status to completed
+5088,2012-05-10 14:05:29.748,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:05:29.764,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:05:29.779,Done function CQueuedMessage::Process
+5088,2012-05-10 14:05:29.779,Consumer finish processing message 37142282
+5088,2012-05-10 14:05:47.717,Consumer start processing message 30714851
+5088,2012-05-10 14:05:47.717,In function CQueuedMessage::Process
+5088,2012-05-10 14:05:47.717,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:05:47.733,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:05:47.920,Setting Message Status to completed
+5088,2012-05-10 14:05:47.936,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:05:47.951,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:05:47.967,Done function CQueuedMessage::Process
+5088,2012-05-10 14:05:47.967,Consumer finish processing message 30714851
+5088,2012-05-10 14:06:04.624,Consumer start processing message 37142416
+5088,2012-05-10 14:06:04.624,In function CQueuedMessage::Process
+5088,2012-05-10 14:06:04.639,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:04.639,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:04.795,Setting Message Status to completed
+5088,2012-05-10 14:06:04.795,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:04.811,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:04.827,Done function CQueuedMessage::Process
+5088,2012-05-10 14:06:04.842,Consumer finish processing message 37142416
+5088,2012-05-10 14:06:20.593,Consumer start processing message 22113167
+5088,2012-05-10 14:06:20.593,In function CQueuedMessage::Process
+5088,2012-05-10 14:06:20.608,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:20.608,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:21.530,Setting Message Status to completed
+5088,2012-05-10 14:06:21.530,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:21.577,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:21.593,Done function CQueuedMessage::Process
+5088,2012-05-10 14:06:21.608,Consumer finish processing message 22113167
+5088,2012-05-10 14:06:40.796,Consumer start processing message 32466504
+5088,2012-05-10 14:06:40.812,In function CQueuedMessage::Process
+5088,2012-05-10 14:06:40.812,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:40.827,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:40.937,Setting Message Status to completed
+5088,2012-05-10 14:06:40.937,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:40.968,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:40.968,Done function CQueuedMessage::Process
+5088,2012-05-10 14:06:40.983,Consumer finish processing message 32466504
+5088,2012-05-10 14:06:55.562,Consumer start processing message 32466917
+5088,2012-05-10 14:06:55.577,In function CQueuedMessage::Process
+5088,2012-05-10 14:06:55.577,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:55.593,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:06:55.796,Setting Message Status to completed
+5088,2012-05-10 14:06:55.796,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:55.827,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:06:55.827,Done function CQueuedMessage::Process
+5088,2012-05-10 14:06:55.843,Consumer finish processing message 32466917
+5088,2012-05-10 14:07:08.265,Consumer start processing message 37093485
+5088,2012-05-10 14:07:08.281,In function CQueuedMessage::Process
+5088,2012-05-10 14:07:08.281,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:08.296,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:10.218,Setting Message Status to completed
+5088,2012-05-10 14:07:10.234,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:10.234,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:10.249,Done function CQueuedMessage::Process
+5088,2012-05-10 14:07:10.265,Consumer finish processing message 37093485
+5088,2012-05-10 14:07:24.187,Consumer start processing message 32467222
+5088,2012-05-10 14:07:24.203,In function CQueuedMessage::Process
+5088,2012-05-10 14:07:24.203,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:24.250,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:24.437,Setting Message Status to completed
+5088,2012-05-10 14:07:24.437,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:24.453,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:24.468,Done function CQueuedMessage::Process
+5088,2012-05-10 14:07:24.468,Consumer finish processing message 32467222
+5088,2012-05-10 14:07:38.500,Consumer start processing message 30715186
+5088,2012-05-10 14:07:38.500,In function CQueuedMessage::Process
+5088,2012-05-10 14:07:38.500,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:38.515,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:38.672,Setting Message Status to completed
+5088,2012-05-10 14:07:38.672,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:38.687,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:38.703,Done function CQueuedMessage::Process
+5088,2012-05-10 14:07:38.719,Consumer finish processing message 30715186
+5088,2012-05-10 14:07:52.422,Consumer start processing message 32467393
+5088,2012-05-10 14:07:52.437,In function CQueuedMessage::Process
+5088,2012-05-10 14:07:52.437,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:52.453,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:07:52.641,Setting Message Status to completed
+5088,2012-05-10 14:07:52.656,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:52.656,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:07:52.672,Done function CQueuedMessage::Process
+5088,2012-05-10 14:07:52.672,Consumer finish processing message 32467393
+5088,2012-05-10 14:08:08.625,Consumer start processing message 32466790
+5088,2012-05-10 14:08:08.625,In function CQueuedMessage::Process
+5088,2012-05-10 14:08:08.641,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:08.656,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:08.781,Setting Message Status to completed
+5088,2012-05-10 14:08:08.797,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:08.828,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:08.860,Done function CQueuedMessage::Process
+5088,2012-05-10 14:08:08.860,Consumer finish processing message 32466790
+5088,2012-05-10 14:08:24.047,Consumer start processing message 32467494
+5088,2012-05-10 14:08:24.063,In function CQueuedMessage::Process
+5088,2012-05-10 14:08:24.063,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:24.078,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:24.250,Setting Message Status to completed
+5088,2012-05-10 14:08:24.266,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:24.266,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:24.282,Done function CQueuedMessage::Process
+5088,2012-05-10 14:08:24.297,Consumer finish processing message 32467494
+5088,2012-05-10 14:08:43.594,Consumer start processing message 32466956
+5088,2012-05-10 14:08:43.594,In function CQueuedMessage::Process
+5088,2012-05-10 14:08:43.594,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:43.610,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:43.704,Setting Message Status to completed
+5088,2012-05-10 14:08:43.719,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:43.735,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:43.751,Done function CQueuedMessage::Process
+5088,2012-05-10 14:08:43.751,Consumer finish processing message 32466956
+5088,2012-05-10 14:08:57.516,Consumer start processing message 32467589
+5088,2012-05-10 14:08:57.532,In function CQueuedMessage::Process
+5088,2012-05-10 14:08:57.532,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:57.532,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:08:57.735,Setting Message Status to completed
+5088,2012-05-10 14:08:57.735,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:57.751,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:08:57.766,Done function CQueuedMessage::Process
+5088,2012-05-10 14:08:57.782,Consumer finish processing message 32467589
+5088,2012-05-10 14:09:14.688,Consumer start processing message 32467639
+5088,2012-05-10 14:09:14.704,In function CQueuedMessage::Process
+5088,2012-05-10 14:09:14.704,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:09:14.720,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:09:15.001,Setting Message Status to completed
+5088,2012-05-10 14:09:15.001,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:09:15.017,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:09:15.032,Done function CQueuedMessage::Process
+5088,2012-05-10 14:09:15.032,Consumer finish processing message 32467639
+5088,2012-05-10 14:09:41.283,Consumer start processing message 22106465
+5088,2012-05-10 14:09:41.298,In function CQueuedMessage::Process
+5088,2012-05-10 14:09:41.298,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:09:41.314,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:09:43.611,Setting Message Status to completed
+5088,2012-05-10 14:09:43.611,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:09:43.642,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:09:43.642,Done function CQueuedMessage::Process
+5088,2012-05-10 14:09:43.658,Consumer finish processing message 22106465
+5088,2012-05-10 14:09:55.330,Consumer start processing message 32467343
+5088,2012-05-10 14:09:55.330,In function CQueuedMessage::Process
+5088,2012-05-10 14:09:55.345,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:09:55.361,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:09:55.470,Setting Message Status to completed
+5088,2012-05-10 14:09:55.486,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:09:55.486,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:09:55.502,Done function CQueuedMessage::Process
+5088,2012-05-10 14:09:55.517,Consumer finish processing message 32467343
+5088,2012-05-10 14:10:14.361,Consumer start processing message 30715652
+5088,2012-05-10 14:10:14.361,In function CQueuedMessage::Process
+5088,2012-05-10 14:10:14.377,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:10:14.377,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:10:14.580,Setting Message Status to completed
+5088,2012-05-10 14:10:14.596,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:10:14.596,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:10:14.611,Done function CQueuedMessage::Process
+5088,2012-05-10 14:10:14.611,Consumer finish processing message 30715652
+5088,2012-05-10 14:10:53.034,Consumer start processing message 42035709
+5088,2012-05-10 14:10:53.049,In function CQueuedMessage::Process
+5088,2012-05-10 14:10:53.049,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:10:53.065,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:10:53.284,Setting Message Status to completed
+5088,2012-05-10 14:10:53.299,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:10:53.315,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:10:53.330,Done function CQueuedMessage::Process
+5088,2012-05-10 14:10:53.346,Consumer finish processing message 42035709
+5088,2012-05-10 14:11:13.065,Consumer start processing message 34361020
+5088,2012-05-10 14:11:13.065,In function CQueuedMessage::Process
+5088,2012-05-10 14:11:13.081,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:11:13.096,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:11:16.831,Setting Message Status to completed
+5088,2012-05-10 14:11:16.846,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:11:16.846,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:11:16.862,Done function CQueuedMessage::Process
+5088,2012-05-10 14:11:16.862,Consumer finish processing message 34361020
+5088,2012-05-10 14:11:46.644,Consumer start processing message 37093800
+5088,2012-05-10 14:11:46.659,In function CQueuedMessage::Process
+5088,2012-05-10 14:11:46.659,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:11:46.675,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:11:47.644,Setting Message Status to completed
+5088,2012-05-10 14:11:47.659,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:11:47.675,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:11:47.675,Done function CQueuedMessage::Process
+5088,2012-05-10 14:11:47.690,Consumer finish processing message 37093800
+5088,2012-05-10 14:12:09.441,Consumer start processing message 30716019
+5088,2012-05-10 14:12:09.441,In function CQueuedMessage::Process
+5088,2012-05-10 14:12:09.456,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:12:09.456,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:12:09.644,Setting Message Status to completed
+5088,2012-05-10 14:12:09.659,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:12:09.659,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:12:09.675,Done function CQueuedMessage::Process
+5088,2012-05-10 14:12:09.675,Consumer finish processing message 30716019
+5088,2012-05-10 14:12:55.035,Consumer start processing message 42036065
+5088,2012-05-10 14:12:55.051,In function CQueuedMessage::Process
+5088,2012-05-10 14:12:55.066,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:12:55.066,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:12:55.348,Setting Message Status to completed
+5088,2012-05-10 14:12:55.348,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:12:55.363,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:12:55.379,Done function CQueuedMessage::Process
+5088,2012-05-10 14:12:55.394,Consumer finish processing message 42036065
+5088,2012-05-10 14:13:14.020,Consumer start processing message 22113361
+5088,2012-05-10 14:13:14.020,In function CQueuedMessage::Process
+5088,2012-05-10 14:13:14.035,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:14.035,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:14.848,Setting Message Status to completed
+5088,2012-05-10 14:13:14.848,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:14.863,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:14.879,Done function CQueuedMessage::Process
+5088,2012-05-10 14:13:14.879,Consumer finish processing message 22113361
+5088,2012-05-10 14:13:33.786,Consumer start processing message 30716283
+5088,2012-05-10 14:13:33.786,In function CQueuedMessage::Process
+5088,2012-05-10 14:13:33.786,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:33.801,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:33.973,Setting Message Status to completed
+5088,2012-05-10 14:13:33.973,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:34.004,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:34.004,Done function CQueuedMessage::Process
+5088,2012-05-10 14:13:34.020,Consumer finish processing message 30716283
+5088,2012-05-10 14:13:49.833,Consumer start processing message 46673362
+5088,2012-05-10 14:13:49.833,In function CQueuedMessage::Process
+5088,2012-05-10 14:13:49.848,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:49.848,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:49.958,Setting Message Status to completed
+5088,2012-05-10 14:13:49.958,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:49.973,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:50.036,Done function CQueuedMessage::Process
+5088,2012-05-10 14:13:50.036,Consumer finish processing message 46673362
+5088,2012-05-10 14:13:58.692,Consumer start processing message 30716357
+5088,2012-05-10 14:13:58.692,In function CQueuedMessage::Process
+5088,2012-05-10 14:13:58.692,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:58.708,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:13:58.880,Setting Message Status to completed
+5088,2012-05-10 14:13:58.880,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:58.911,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:13:58.911,Done function CQueuedMessage::Process
+5088,2012-05-10 14:13:58.927,Consumer finish processing message 30716357
+5088,2012-05-10 14:14:21.442,Consumer start processing message 22113417
+5088,2012-05-10 14:14:21.458,In function CQueuedMessage::Process
+5088,2012-05-10 14:14:21.458,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:14:21.474,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:14:22.255,Setting Message Status to completed
+5088,2012-05-10 14:14:22.271,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:14:22.286,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:14:22.317,Done function CQueuedMessage::Process
+5088,2012-05-10 14:14:22.333,Consumer finish processing message 22113417
+5088,2012-05-10 14:14:51.958,Consumer start processing message 30716556
+5088,2012-05-10 14:14:51.958,In function CQueuedMessage::Process
+5088,2012-05-10 14:14:51.974,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:14:51.974,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:14:52.130,Setting Message Status to completed
+5088,2012-05-10 14:14:52.146,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:14:52.162,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:14:52.162,Done function CQueuedMessage::Process
+5088,2012-05-10 14:14:52.177,Consumer finish processing message 30716556
+5088,2012-05-10 14:15:19.021,Consumer start processing message 22113459
+5088,2012-05-10 14:15:19.037,In function CQueuedMessage::Process
+5088,2012-05-10 14:15:19.037,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:15:19.053,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:15:19.740,Setting Message Status to completed
+5088,2012-05-10 14:15:19.756,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:15:19.756,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:15:19.787,Done function CQueuedMessage::Process
+5088,2012-05-10 14:15:19.787,Consumer finish processing message 22113459
+5088,2012-05-10 14:15:33.381,Consumer start processing message 22113478
+5088,2012-05-10 14:15:33.381,In function CQueuedMessage::Process
+5088,2012-05-10 14:15:33.396,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:15:33.396,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:15:34.115,Setting Message Status to completed
+5088,2012-05-10 14:15:34.131,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:15:34.131,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:15:34.146,Done function CQueuedMessage::Process
+5088,2012-05-10 14:15:34.146,Consumer finish processing message 22113478
+5088,2012-05-10 14:16:00.866,Consumer start processing message 33214062
+5088,2012-05-10 14:16:00.866,In function CQueuedMessage::Process
+5088,2012-05-10 14:16:00.881,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:00.897,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:02.537,Setting Message Status to completed
+5088,2012-05-10 14:16:02.553,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:02.584,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:02.584,Done function CQueuedMessage::Process
+5088,2012-05-10 14:16:02.600,Consumer finish processing message 33214062
+5088,2012-05-10 14:16:21.225,Consumer start processing message 22113520
+5088,2012-05-10 14:16:21.225,In function CQueuedMessage::Process
+5088,2012-05-10 14:16:21.241,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:21.241,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:21.991,Setting Message Status to completed
+5088,2012-05-10 14:16:21.991,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:22.006,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:22.022,Done function CQueuedMessage::Process
+5088,2012-05-10 14:16:22.038,Consumer finish processing message 22113520
+5088,2012-05-10 14:16:42.929,Consumer start processing message 23530677
+5088,2012-05-10 14:16:42.944,In function CQueuedMessage::Process
+5088,2012-05-10 14:16:42.944,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:42.960,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:43.382,Setting Message Status to completed
+5088,2012-05-10 14:16:43.382,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:43.397,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:43.413,Done function CQueuedMessage::Process
+5088,2012-05-10 14:16:43.413,Consumer finish processing message 23530677
+5088,2012-05-10 14:16:59.366,Consumer start processing message 34361381
+5088,2012-05-10 14:16:59.366,In function CQueuedMessage::Process
+5088,2012-05-10 14:16:59.382,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:59.398,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:16:59.679,Setting Message Status to completed
+5088,2012-05-10 14:16:59.694,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:59.804,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:16:59.819,Done function CQueuedMessage::Process
+5088,2012-05-10 14:16:59.851,Consumer finish processing message 34361381
+5088,2012-05-10 14:17:16.195,Consumer start processing message 22113560
+5088,2012-05-10 14:17:16.210,In function CQueuedMessage::Process
+5088,2012-05-10 14:17:16.210,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:17:16.226,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:17:17.101,Setting Message Status to completed
+5088,2012-05-10 14:17:17.117,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:17:17.132,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:17:17.163,Done function CQueuedMessage::Process
+5088,2012-05-10 14:17:17.163,Consumer finish processing message 22113560
+5088,2012-05-10 14:17:26.570,Consumer start processing message 22113568
+5088,2012-05-10 14:17:26.570,In function CQueuedMessage::Process
+5088,2012-05-10 14:17:26.585,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:17:26.601,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:17:27.398,Setting Message Status to completed
+5088,2012-05-10 14:17:27.414,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:17:27.429,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:17:27.460,Done function CQueuedMessage::Process
+5088,2012-05-10 14:17:27.460,Consumer finish processing message 22113568
+5088,2012-05-10 14:17:49.289,Consumer start processing message 34361444
+5088,2012-05-10 14:17:49.289,In function CQueuedMessage::Process
+5088,2012-05-10 14:17:49.304,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:17:49.320,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:17:49.601,Setting Message Status to completed
+5088,2012-05-10 14:17:49.601,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:17:49.633,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:17:49.648,Done function CQueuedMessage::Process
+5088,2012-05-10 14:17:49.664,Consumer finish processing message 34361444
+5088,2012-05-10 14:18:09.961,Consumer start processing message 30717226
+5088,2012-05-10 14:18:09.977,In function CQueuedMessage::Process
+5088,2012-05-10 14:18:09.977,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:09.992,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:10.117,Setting Message Status to completed
+5088,2012-05-10 14:18:10.117,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:10.133,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:10.148,Done function CQueuedMessage::Process
+5088,2012-05-10 14:18:10.164,Consumer finish processing message 30717226
+5088,2012-05-10 14:18:27.883,Consumer start processing message 38890008
+5088,2012-05-10 14:18:27.899,In function CQueuedMessage::Process
+5088,2012-05-10 14:18:27.914,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:27.914,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:29.211,Setting Message Status to completed
+5088,2012-05-10 14:18:29.211,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:29.227,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:29.227,Done function CQueuedMessage::Process
+5088,2012-05-10 14:18:29.242,Consumer finish processing message 38890008
+5088,2012-05-10 14:18:43.243,Consumer start processing message 22113624
+5088,2012-05-10 14:18:43.258,In function CQueuedMessage::Process
+5088,2012-05-10 14:18:43.258,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:43.274,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:44.211,Setting Message Status to completed
+5088,2012-05-10 14:18:44.227,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:44.383,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:44.415,Done function CQueuedMessage::Process
+5088,2012-05-10 14:18:44.415,Consumer finish processing message 22113624
+5088,2012-05-10 14:18:53.243,Consumer start processing message 32486464
+5088,2012-05-10 14:18:53.243,In function CQueuedMessage::Process
+5088,2012-05-10 14:18:53.258,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:53.274,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:18:53.462,Setting Message Status to completed
+5088,2012-05-10 14:18:53.477,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:53.493,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:18:53.508,Done function CQueuedMessage::Process
+5088,2012-05-10 14:18:53.508,Consumer finish processing message 32486464
+5088,2012-05-10 14:19:30.118,Consumer start processing message 22113647
+5088,2012-05-10 14:19:30.134,In function CQueuedMessage::Process
+5088,2012-05-10 14:19:30.134,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:19:30.149,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:19:30.946,Setting Message Status to completed
+5088,2012-05-10 14:19:30.962,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:19:30.962,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:19:30.978,Done function CQueuedMessage::Process
+5088,2012-05-10 14:19:30.993,Consumer finish processing message 22113647
+5088,2012-05-10 14:19:55.400,Consumer start processing message 22113678
+5088,2012-05-10 14:19:55.415,In function CQueuedMessage::Process
+5088,2012-05-10 14:19:55.431,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:19:55.431,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:19:56.400,Setting Message Status to completed
+5088,2012-05-10 14:19:56.400,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:19:56.415,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:19:56.431,Done function CQueuedMessage::Process
+5088,2012-05-10 14:19:56.431,Consumer finish processing message 22113678
+5088,2012-05-10 14:20:16.197,Consumer start processing message 32486654
+5088,2012-05-10 14:20:16.197,In function CQueuedMessage::Process
+5088,2012-05-10 14:20:16.213,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:20:16.228,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:20:16.400,Setting Message Status to completed
+5088,2012-05-10 14:20:16.416,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:20:16.431,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:20:16.447,Done function CQueuedMessage::Process
+5088,2012-05-10 14:20:16.447,Consumer finish processing message 32486654
+5088,2012-05-10 14:20:37.838,Consumer start processing message 32486719
+5088,2012-05-10 14:20:37.853,In function CQueuedMessage::Process
+5088,2012-05-10 14:20:37.853,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:20:37.869,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:20:38.057,Setting Message Status to completed
+5088,2012-05-10 14:20:38.072,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:20:38.088,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:20:38.103,Done function CQueuedMessage::Process
+5088,2012-05-10 14:20:38.103,Consumer finish processing message 32486719
+5088,2012-05-10 14:20:49.869,Consumer start processing message 34361622
+5088,2012-05-10 14:20:49.869,In function CQueuedMessage::Process
+5088,2012-05-10 14:20:49.869,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:20:49.885,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:20:50.104,Setting Message Status to completed
+5088,2012-05-10 14:20:50.119,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:20:50.213,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:20:50.229,Done function CQueuedMessage::Process
+5088,2012-05-10 14:20:50.229,Consumer finish processing message 34361622
+5088,2012-05-10 14:21:04.713,Consumer start processing message 32486810
+5088,2012-05-10 14:21:04.713,In function CQueuedMessage::Process
+5088,2012-05-10 14:21:04.729,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:21:04.729,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:21:04.885,Setting Message Status to completed
+5088,2012-05-10 14:21:04.901,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:21:04.901,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:21:04.916,Done function CQueuedMessage::Process
+5088,2012-05-10 14:21:04.916,Consumer finish processing message 32486810
+5088,2012-05-10 14:21:26.573,Consumer start processing message 23530855
+5088,2012-05-10 14:21:26.573,In function CQueuedMessage::Process
+5088,2012-05-10 14:21:26.573,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:21:26.588,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:21:27.417,Setting Message Status to completed
+5088,2012-05-10 14:21:27.432,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:21:27.448,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:21:27.463,Done function CQueuedMessage::Process
+5088,2012-05-10 14:21:27.463,Consumer finish processing message 23530855
+5088,2012-05-10 14:21:59.683,Consumer start processing message 22113785
+5088,2012-05-10 14:21:59.698,In function CQueuedMessage::Process
+5088,2012-05-10 14:21:59.698,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:21:59.714,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:22:00.464,Setting Message Status to completed
+5088,2012-05-10 14:22:00.480,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:00.495,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:00.495,Done function CQueuedMessage::Process
+5088,2012-05-10 14:22:00.511,Consumer finish processing message 22113785
+5088,2012-05-10 14:22:14.995,Consumer start processing message 32487042
+5088,2012-05-10 14:22:15.011,In function CQueuedMessage::Process
+5088,2012-05-10 14:22:15.011,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:22:15.027,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:22:15.214,Setting Message Status to completed
+5088,2012-05-10 14:22:15.214,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:15.230,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:15.245,Done function CQueuedMessage::Process
+5088,2012-05-10 14:22:15.245,Consumer finish processing message 32487042
+5088,2012-05-10 14:22:29.152,Consumer start processing message 38890023
+5088,2012-05-10 14:22:29.167,In function CQueuedMessage::Process
+5088,2012-05-10 14:22:29.167,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:22:29.183,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:22:30.605,Setting Message Status to completed
+5088,2012-05-10 14:22:30.605,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:30.621,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:30.636,Done function CQueuedMessage::Process
+5088,2012-05-10 14:22:30.636,Consumer finish processing message 38890023
+5088,2012-05-10 14:22:51.652,Consumer start processing message 33901146
+5088,2012-05-10 14:22:51.668,In function CQueuedMessage::Process
+5088,2012-05-10 14:22:51.668,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:22:51.683,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:22:58.074,Setting Message Status to completed
+5088,2012-05-10 14:22:58.090,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:58.105,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:22:58.105,Done function CQueuedMessage::Process
+5088,2012-05-10 14:22:58.121,Consumer finish processing message 33901146
+5088,2012-05-10 14:23:17.152,Consumer start processing message 33901689
+5088,2012-05-10 14:23:17.152,In function CQueuedMessage::Process
+5088,2012-05-10 14:23:17.152,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:23:17.168,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:23:17.324,Setting Message Status to completed
+5088,2012-05-10 14:23:17.340,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:23:17.356,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:23:17.356,Done function CQueuedMessage::Process
+5088,2012-05-10 14:23:17.356,Consumer finish processing message 33901689
+5088,2012-05-10 14:23:35.825,Consumer start processing message 718230
+5088,2012-05-10 14:23:35.825,In function CQueuedMessage::Process
+5088,2012-05-10 14:23:35.840,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:23:35.840,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:23:36.153,Setting Message Status to completed
+5088,2012-05-10 14:23:36.153,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:23:36.168,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:23:36.184,Done function CQueuedMessage::Process
+5088,2012-05-10 14:23:36.200,Consumer finish processing message 718230
+5088,2012-05-10 14:24:01.872,Consumer start processing message 23531027
+5088,2012-05-10 14:24:01.872,In function CQueuedMessage::Process
+5088,2012-05-10 14:24:01.887,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:24:01.887,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:24:02.825,Setting Message Status to completed
+5088,2012-05-10 14:24:02.840,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:24:02.856,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:24:02.856,Done function CQueuedMessage::Process
+5088,2012-05-10 14:24:02.872,Consumer finish processing message 23531027
+5088,2012-05-10 14:24:37.903,Consumer start processing message 37599874
+5088,2012-05-10 14:24:37.903,In function CQueuedMessage::Process
+5088,2012-05-10 14:24:37.919,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:24:37.919,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:24:38.685,Setting Message Status to completed
+5088,2012-05-10 14:24:38.700,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:24:38.700,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:24:38.716,Done function CQueuedMessage::Process
+5088,2012-05-10 14:24:38.716,Consumer finish processing message 37599874
+5088,2012-05-10 14:25:22.451,Consumer start processing message 34361976
+5088,2012-05-10 14:25:22.451,In function CQueuedMessage::Process
+5088,2012-05-10 14:25:22.467,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:25:22.467,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:25:22.685,Setting Message Status to completed
+5088,2012-05-10 14:25:22.701,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:25:22.717,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:25:22.732,Done function CQueuedMessage::Process
+5088,2012-05-10 14:25:22.732,Consumer finish processing message 34361976
+5088,2012-05-10 14:25:44.373,Consumer start processing message 23531132
+5088,2012-05-10 14:25:44.373,In function CQueuedMessage::Process
+5088,2012-05-10 14:25:44.389,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:25:44.389,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:25:44.811,Setting Message Status to completed
+5088,2012-05-10 14:25:44.826,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:25:44.842,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:25:44.857,Done function CQueuedMessage::Process
+5088,2012-05-10 14:25:44.857,Consumer finish processing message 23531132
+5088,2012-05-10 14:26:17.108,Consumer start processing message 23530412
+5088,2012-05-10 14:26:17.108,In function CQueuedMessage::Process
+5088,2012-05-10 14:26:17.123,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:26:17.123,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:26:18.452,Setting Message Status to completed
+5088,2012-05-10 14:26:18.467,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:26:18.483,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:26:18.483,Done function CQueuedMessage::Process
+5088,2012-05-10 14:26:18.498,Consumer finish processing message 23530412
+5088,2012-05-10 14:26:47.468,Consumer start processing message 34362254
+5088,2012-05-10 14:26:47.468,In function CQueuedMessage::Process
+5088,2012-05-10 14:26:47.468,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:26:47.483,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:26:47.733,Setting Message Status to completed
+5088,2012-05-10 14:26:47.733,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:26:47.749,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:26:47.764,Done function CQueuedMessage::Process
+5088,2012-05-10 14:26:47.764,Consumer finish processing message 34362254
+5088,2012-05-10 14:27:15.437,Consumer start processing message 34362346
+5088,2012-05-10 14:27:15.437,In function CQueuedMessage::Process
+5088,2012-05-10 14:27:15.452,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:27:15.468,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:27:15.702,Setting Message Status to completed
+5088,2012-05-10 14:27:15.718,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:27:15.718,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:27:15.734,Done function CQueuedMessage::Process
+5088,2012-05-10 14:27:15.749,Consumer finish processing message 34362346
+5088,2012-05-10 14:27:55.640,Consumer start processing message 34362477
+5088,2012-05-10 14:27:55.640,In function CQueuedMessage::Process
+5088,2012-05-10 14:27:55.640,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:27:55.656,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:27:55.890,Setting Message Status to completed
+5088,2012-05-10 14:27:55.906,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:27:55.922,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:27:55.922,Done function CQueuedMessage::Process
+5088,2012-05-10 14:27:55.937,Consumer finish processing message 34362477
+5088,2012-05-10 14:28:49.469,Consumer start processing message 34362658
+5088,2012-05-10 14:28:49.485,In function CQueuedMessage::Process
+5088,2012-05-10 14:28:49.485,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:28:49.500,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:28:49.719,Setting Message Status to completed
+5088,2012-05-10 14:28:49.719,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:28:49.735,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:28:49.750,Done function CQueuedMessage::Process
+5088,2012-05-10 14:28:49.750,Consumer finish processing message 34362658
+5088,2012-05-10 14:30:28.455,Consumer start processing message 34361056
+5088,2012-05-10 14:30:28.470,In function CQueuedMessage::Process
+5088,2012-05-10 14:30:28.470,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:30:28.486,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:30:29.470,Setting Message Status to completed
+5088,2012-05-10 14:30:29.470,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:30:29.486,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:30:29.502,Done function CQueuedMessage::Process
+5088,2012-05-10 14:30:29.502,Consumer finish processing message 34361056
+5088,2012-05-10 14:33:40.114,Consumer start processing message 34363120
+5088,2012-05-10 14:33:40.114,In function CQueuedMessage::Process
+5088,2012-05-10 14:33:40.129,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:33:40.129,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:33:40.223,Setting Message Status to completed
+5088,2012-05-10 14:33:40.223,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:33:40.270,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:33:40.270,Done function CQueuedMessage::Process
+5088,2012-05-10 14:33:40.285,Consumer finish processing message 34363120
+5088,2012-05-10 14:34:24.473,Consumer start processing message 40232246
+5088,2012-05-10 14:34:24.489,In function CQueuedMessage::Process
+5088,2012-05-10 14:34:24.489,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:34:24.505,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:34:24.598,Setting Message Status to completed
+5088,2012-05-10 14:34:24.598,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:34:24.630,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:34:24.645,Done function CQueuedMessage::Process
+5088,2012-05-10 14:34:24.645,Consumer finish processing message 40232246
+5088,2012-05-10 14:36:00.115,Consumer start processing message 33216477
+5088,2012-05-10 14:36:00.131,In function CQueuedMessage::Process
+5088,2012-05-10 14:36:00.131,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:36:00.147,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:36:00.272,Setting Message Status to completed
+5088,2012-05-10 14:36:00.272,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:36:00.287,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:36:00.287,Done function CQueuedMessage::Process
+5088,2012-05-10 14:36:00.303,Consumer finish processing message 33216477
+5088,2012-05-10 14:36:50.428,Consumer start processing message 33899819
+5088,2012-05-10 14:36:50.444,In function CQueuedMessage::Process
+5088,2012-05-10 14:36:50.444,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:36:50.460,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:36:51.600,Setting Message Status to completed
+5088,2012-05-10 14:36:51.600,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:36:51.616,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:36:51.616,Done function CQueuedMessage::Process
+5088,2012-05-10 14:36:51.632,Consumer finish processing message 33899819
+5088,2012-05-10 14:38:20.226,Consumer start processing message 37604136
+5088,2012-05-10 14:38:20.226,In function CQueuedMessage::Process
+5088,2012-05-10 14:38:20.242,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:38:20.242,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:38:21.070,Setting Message Status to completed
+5088,2012-05-10 14:38:21.086,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:38:21.101,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:38:21.101,Done function CQueuedMessage::Process
+5088,2012-05-10 14:38:21.117,Consumer finish processing message 37604136
+5088,2012-05-10 14:39:04.899,Consumer start processing message 35899003
+5088,2012-05-10 14:39:04.915,In function CQueuedMessage::Process
+5088,2012-05-10 14:39:04.915,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:39:04.930,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:39:06.336,Setting Message Status to completed
+5088,2012-05-10 14:39:06.352,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:39:06.352,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:39:06.368,Done function CQueuedMessage::Process
+5088,2012-05-10 14:39:06.368,Consumer finish processing message 35899003
+5088,2012-05-10 14:41:02.854,Consumer start processing message 35899506
+5088,2012-05-10 14:41:02.854,In function CQueuedMessage::Process
+5088,2012-05-10 14:41:02.869,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:41:02.869,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:41:04.135,Setting Message Status to completed
+5088,2012-05-10 14:41:04.135,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:41:04.150,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:41:04.150,Done function CQueuedMessage::Process
+5088,2012-05-10 14:41:04.166,Consumer finish processing message 35899506
+5088,2012-05-10 14:41:54.120,Consumer start processing message 37604423
+5088,2012-05-10 14:41:54.135,In function CQueuedMessage::Process
+5088,2012-05-10 14:41:54.135,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:41:54.151,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:41:54.323,Setting Message Status to completed
+5088,2012-05-10 14:41:54.323,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:41:54.339,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:41:54.339,Done function CQueuedMessage::Process
+5088,2012-05-10 14:41:54.354,Consumer finish processing message 37604423
+5088,2012-05-10 14:42:18.917,Consumer start processing message 37604530
+5088,2012-05-10 14:42:18.917,In function CQueuedMessage::Process
+5088,2012-05-10 14:42:18.933,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:42:18.933,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:42:19.026,Setting Message Status to completed
+5088,2012-05-10 14:42:19.026,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:42:19.042,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:42:19.042,Done function CQueuedMessage::Process
+5088,2012-05-10 14:42:19.058,Consumer finish processing message 37604530
+5088,2012-05-10 14:42:40.480,Consumer start processing message 37604641
+5088,2012-05-10 14:42:40.480,In function CQueuedMessage::Process
+5088,2012-05-10 14:42:40.495,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:42:40.495,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:42:40.949,Setting Message Status to completed
+5088,2012-05-10 14:42:40.949,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:42:40.964,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:42:40.995,Done function CQueuedMessage::Process
+5088,2012-05-10 14:42:41.011,Consumer finish processing message 37604641
+5088,2012-05-10 14:43:03.089,Consumer start processing message 37094196
+5088,2012-05-10 14:43:03.105,In function CQueuedMessage::Process
+5088,2012-05-10 14:43:03.105,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:43:03.121,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:43:03.418,Setting Message Status to completed
+5088,2012-05-10 14:43:03.433,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:43:03.464,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:43:03.496,Done function CQueuedMessage::Process
+5088,2012-05-10 14:43:03.496,Consumer finish processing message 37094196
+5088,2012-05-10 14:43:34.465,Consumer start processing message 37604899
+5088,2012-05-10 14:43:34.480,In function CQueuedMessage::Process
+5088,2012-05-10 14:43:34.480,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:43:34.496,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:43:34.590,Setting Message Status to completed
+5088,2012-05-10 14:43:34.605,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:43:34.621,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:43:34.637,Done function CQueuedMessage::Process
+5088,2012-05-10 14:43:34.637,Consumer finish processing message 37604899
+5088,2012-05-10 14:44:10.700,Consumer start processing message 22222465
+5088,2012-05-10 14:44:10.700,In function CQueuedMessage::Process
+5088,2012-05-10 14:44:10.700,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:44:10.715,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:44:13.325,Setting Message Status to completed
+5088,2012-05-10 14:44:13.325,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:44:13.340,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:44:13.340,Done function CQueuedMessage::Process
+5088,2012-05-10 14:44:13.356,Consumer finish processing message 22222465
+5088,2012-05-10 14:45:09.404,Consumer start processing message 37094462
+5088,2012-05-10 14:45:09.404,In function CQueuedMessage::Process
+5088,2012-05-10 14:45:09.419,In function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:45:09.435,Done function CQueuedMessage::setWorkThreadID
+5088,2012-05-10 14:45:10.122,Setting Message Status to completed
+5088,2012-05-10 14:45:10.122,In function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:45:10.138,Done function CQueuedMessage::setMessageStatus
+5088,2012-05-10 14:45:10.154,Done function CQueuedMessage::Process
+5088,2012-05-10 14:45:10.169,Consumer finish processing message 37094462
