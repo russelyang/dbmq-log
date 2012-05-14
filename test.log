@@ -1,0 +1,195 @@
+2328,2012-05-10 12:36:19.773,In function CMessageStore::Produce
+2328,2012-05-10 12:36:19.789,In function CDBList::Next
+2328,2012-05-10 12:36:19.789,Done function CDBList::Next
+2328,2012-05-10 12:36:19.836,In function CMessageReader::DoWork
+2328,2012-05-10 12:36:19.836,In function CDBList::Next
+2328,2012-05-10 12:36:19.836,Done function CDBList::Next
+2328,2012-05-10 12:36:19.836,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:19.852,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:19.852,Database: PAZ02SQL324
+2328,2012-05-10 12:36:19.867,Queue_Id = 2
+2328,2012-05-10 12:36:19.867,Message 42033398 found
+2328,2012-05-10 12:36:19.883,Done function CMessageReader::DoWork
+2328,2012-05-10 12:36:19.883,Producer Get Message, 42033398
+2328,2012-05-10 12:36:19.883,In function CMessageReader::DoWork
+2328,2012-05-10 12:36:19.883,Database: PAZ02SQL324
+2328,2012-05-10 12:36:19.883,Queue_Id = 18
+2328,2012-05-10 12:36:19.898,Database: PAZ02SQL324
+2328,2012-05-10 12:36:19.898,Queue_Id = 20
+2328,2012-05-10 12:36:19.898,In function CDBList::Next
+2328,2012-05-10 12:36:19.898,Done function CDBList::Next
+2328,2012-05-10 12:36:19.898,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:19.930,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:19.930,Database: PAZ02SQL305
+2328,2012-05-10 12:36:19.930,Queue_Id = 2
+2328,2012-05-10 12:36:19.930,Message 46671909 found
+2328,2012-05-10 12:36:19.930,Done function CMessageReader::DoWork
+2328,2012-05-10 12:36:19.930,Producer Get Message, 46671909
+2328,2012-05-10 12:36:19.945,In function CMessageReader::DoWork
+2328,2012-05-10 12:36:19.945,Database: PAZ02SQL305
+2328,2012-05-10 12:36:19.945,Queue_Id = 18
+2328,2012-05-10 12:36:19.945,Database: PAZ02SQL305
+2328,2012-05-10 12:36:19.945,Queue_Id = 20
+2328,2012-05-10 12:36:19.945,In function CDBList::Next
+2328,2012-05-10 12:36:19.945,Done function CDBList::Next
+2328,2012-05-10 12:36:19.961,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:19.961,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:19.961,Database: PAZ02SQL316
+2328,2012-05-10 12:36:19.961,Queue_Id = 1
+2328,2012-05-10 12:36:19.961,Database: PAZ02SQL316
+2328,2012-05-10 12:36:19.977,Queue_Id = 15
+2328,2012-05-10 12:36:19.992,Database: PAZ02SQL316
+2328,2012-05-10 12:36:19.992,Queue_Id = 17
+2328,2012-05-10 12:36:20.008,Message 23526875 found
+2328,2012-05-10 12:36:20.008,Done function CMessageReader::DoWork
+2328,2012-05-10 12:36:20.008,Producer Get Message, 23526875
+2328,2012-05-10 12:36:20.008,In function CMessageReader::DoWork
+2328,2012-05-10 12:36:20.008,Database: PAZ02SQL316
+2328,2012-05-10 12:36:20.023,Queue_Id = 18
+2328,2012-05-10 12:36:20.039,Database: PAZ02SQL316
+2328,2012-05-10 12:36:20.039,Queue_Id = 20
+2328,2012-05-10 12:36:20.055,In function CDBList::Next
+2328,2012-05-10 12:36:20.055,Done function CDBList::Next
+2328,2012-05-10 12:36:20.055,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.070,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.070,Database: PAZ02SQL315
+2328,2012-05-10 12:36:20.070,Queue_Id = 18
+2328,2012-05-10 12:36:20.070,Database: PAZ02SQL315
+2328,2012-05-10 12:36:20.086,Queue_Id = 20
+2328,2012-05-10 12:36:20.086,In function CDBList::Next
+2328,2012-05-10 12:36:20.086,Done function CDBList::Next
+2328,2012-05-10 12:36:20.102,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.102,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.102,Database: PAZ02SQL311
+2328,2012-05-10 12:36:20.102,Queue_Id = 15
+2328,2012-05-10 12:36:20.117,Database: PAZ02SQL311
+2328,2012-05-10 12:36:20.117,Queue_Id = 18
+2328,2012-05-10 12:36:20.133,Database: PAZ02SQL311
+2328,2012-05-10 12:36:20.133,Queue_Id = 20
+2328,2012-05-10 12:36:20.133,Message 37138508 found
+2328,2012-05-10 12:36:20.148,Done function CMessageReader::DoWork
+2328,2012-05-10 12:36:20.148,Producer Get Message, 37138508
+2328,2012-05-10 12:36:20.148,In function CMessageReader::DoWork
+2328,2012-05-10 12:36:20.148,In function CDBList::Next
+2328,2012-05-10 12:36:20.148,Done function CDBList::Next
+2328,2012-05-10 12:36:20.164,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.180,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.195,Database: PAZ02SQL302
+2328,2012-05-10 12:36:20.258,Queue_Id = 18
+2328,2012-05-10 12:36:20.289,Database: PAZ02SQL302
+2328,2012-05-10 12:36:20.289,Queue_Id = 20
+2328,2012-05-10 12:36:20.305,In function CDBList::Next
+2328,2012-05-10 12:36:20.305,Done function CDBList::Next
+2328,2012-05-10 12:36:20.320,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.320,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.320,Database: PAZ02SQL327
+2328,2012-05-10 12:36:20.336,Queue_Id = 18
+2328,2012-05-10 12:36:20.352,Database: PAZ02SQL327
+2328,2012-05-10 12:36:20.352,Queue_Id = 20
+2328,2012-05-10 12:36:20.352,In function CDBList::Next
+2328,2012-05-10 12:36:20.367,Done function CDBList::Next
+2328,2012-05-10 12:36:20.367,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.367,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:20.367,Database: PAZ02SQL325
+2328,2012-05-10 12:36:20.367,Queue_Id = 2
+2328,2012-05-10 12:36:25.242,Database: PAZ02SQL325
+2328,2012-05-10 12:36:25.242,Queue_Id = 17
+2328,2012-05-10 12:36:25.258,Database: PAZ02SQL325
+2328,2012-05-10 12:36:25.258,Queue_Id = 18
+2328,2012-05-10 12:36:25.273,Database: PAZ02SQL325
+2328,2012-05-10 12:36:25.273,Queue_Id = 20
+2328,2012-05-10 12:36:25.289,In function CDBList::Next
+2328,2012-05-10 12:36:25.289,Done function CDBList::Next
+2328,2012-05-10 12:36:25.289,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.305,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.305,Database: PAZ02SQL307
+2328,2012-05-10 12:36:25.305,Queue_Id = 18
+2328,2012-05-10 12:36:25.305,Database: PAZ02SQL307
+2328,2012-05-10 12:36:25.305,Queue_Id = 20
+2328,2012-05-10 12:36:25.320,In function CDBList::Next
+2328,2012-05-10 12:36:25.320,Done function CDBList::Next
+2328,2012-05-10 12:36:25.320,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.336,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.336,Database: PAZ02SQL300
+2328,2012-05-10 12:36:25.336,Queue_Id = 15
+2328,2012-05-10 12:36:25.336,Database: PAZ02SQL300
+2328,2012-05-10 12:36:25.336,Queue_Id = 18
+2328,2012-05-10 12:36:25.352,Database: PAZ02SQL300
+2328,2012-05-10 12:36:25.352,Queue_Id = 20
+2328,2012-05-10 12:36:25.352,In function CDBList::Next
+2328,2012-05-10 12:36:25.352,Done function CDBList::Next
+2328,2012-05-10 12:36:25.367,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.367,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.367,Database: PAZ02SQL308
+2328,2012-05-10 12:36:25.367,Queue_Id = 18
+2328,2012-05-10 12:36:25.383,Message 38882344 found
+2328,2012-05-10 12:36:25.383,Done function CMessageReader::DoWork
+2328,2012-05-10 12:36:25.383,Producer Get Message, 38882344
+2328,2012-05-10 12:36:25.383,In function CMessageReader::DoWork
+2328,2012-05-10 12:36:25.398,Database: PAZ02SQL308
+2328,2012-05-10 12:36:25.398,Queue_Id = 20
+2328,2012-05-10 12:36:25.398,In function CDBList::Next
+2328,2012-05-10 12:36:25.398,Done function CDBList::Next
+2328,2012-05-10 12:36:25.398,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.414,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.414,Database: PAZ02SQL301
+2328,2012-05-10 12:36:25.414,Queue_Id = 1
+2328,2012-05-10 12:36:25.414,Database: PAZ02SQL301
+2328,2012-05-10 12:36:25.430,Queue_Id = 18
+2328,2012-05-10 12:36:25.430,Database: PAZ02SQL301
+2328,2012-05-10 12:36:25.430,Queue_Id = 20
+2328,2012-05-10 12:36:25.430,In function CDBList::Next
+2328,2012-05-10 12:36:25.445,Done function CDBList::Next
+2328,2012-05-10 12:36:25.445,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.445,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.445,Database: PAZ02SQL326
+2328,2012-05-10 12:36:25.445,Queue_Id = 18
+2328,2012-05-10 12:36:25.461,Database: PAZ02SQL326
+2328,2012-05-10 12:36:25.461,Queue_Id = 20
+2328,2012-05-10 12:36:25.461,In function CDBList::Next
+2328,2012-05-10 12:36:25.477,Done function CDBList::Next
+2328,2012-05-10 12:36:25.477,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.477,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.477,Database: PAZ02SQL310
+2328,2012-05-10 12:36:25.492,Queue_Id = 1
+2328,2012-05-10 12:36:25.492,Database: PAZ02SQL310
+2328,2012-05-10 12:36:25.492,Queue_Id = 18
+2328,2012-05-10 12:36:25.492,Database: PAZ02SQL310
+2328,2012-05-10 12:36:25.508,Queue_Id = 20
+2328,2012-05-10 12:36:25.508,In function CDBList::Next
+2328,2012-05-10 12:36:25.508,Done function CDBList::Next
+2328,2012-05-10 12:36:25.508,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.523,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.523,Database: PAZ02SQL323
+2328,2012-05-10 12:36:25.523,Queue_Id = 15
+2328,2012-05-10 12:36:25.523,Database: PAZ02SQL323
+2328,2012-05-10 12:36:25.523,Queue_Id = 18
+2328,2012-05-10 12:36:25.539,Database: PAZ02SQL323
+2328,2012-05-10 12:36:25.539,Queue_Id = 20
+2328,2012-05-10 12:36:25.555,In function CDBList::Next
+2328,2012-05-10 12:36:25.555,Done function CDBList::Next
+2328,2012-05-10 12:36:25.570,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.570,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.570,Database: PAZ02SQL309
+2328,2012-05-10 12:36:25.570,Queue_Id = 1
+2328,2012-05-10 12:36:25.758,Database: PAZ02SQL309
+2328,2012-05-10 12:36:25.758,Queue_Id = 18
+2328,2012-05-10 12:36:25.867,Database: PAZ02SQL309
+2328,2012-05-10 12:36:25.867,Queue_Id = 20
+2328,2012-05-10 12:36:25.898,In function CDBList::Next
+2328,2012-05-10 12:36:25.898,Done function CDBList::Next
+2328,2012-05-10 12:36:25.898,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.914,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.914,Database: PAZ02SQL306
+2328,2012-05-10 12:36:25.914,Queue_Id = 18
+2328,2012-05-10 12:36:25.914,Database: PAZ02SQL306
+2328,2012-05-10 12:36:25.930,Queue_Id = 20
+2328,2012-05-10 12:36:25.930,In function CDBList::Next
+2328,2012-05-10 12:36:25.930,Done function CDBList::Next
+2328,2012-05-10 12:36:25.930,In function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.945,Done function CMessageReader::PopulateCandidateQueues
+2328,2012-05-10 12:36:25.945,Database: PAZ02SQL313
+2328,2012-05-10 12:36:25.945,Queue_Id = 2
+2328,2012-05-10 12:36:25.961,Message 33214171 found
+2328,2012-05-10 12:36:25.961,Done function CMessageReader::DoWork
+2328,2012-05-10 12:36:25.961,Producer Get Message, 33214171
