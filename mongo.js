@@ -3,25 +3,19 @@ var Db = require('mongodb').Db,
     Server = require('mongodb').Server;
 
 
-var Lazy = require("lazy");
+//var Lazy = require("lazy");
 
+var con;
 
-var lazy = new Lazy;
-
-lazy.on('data', function(x) {
-	console.log(x);
-	var db = new Db('test', new Server('ryang3', 27017, {}), {native_parser:false});
-	db.open(function(err, db){
-		db.collection('foo', function(err, collection) {
-			collection.insert({'a':x});
-			db.close();
-		});
-	});	
+var db = new Db('test', new Server('ryang3', 27017, {}), {native_parser:false});
+db.open(function(err, db){
+	con = db;
+	cb();
 });
-	  
-[0,1,2,3,4,5,6,7,8,9,10].forEach(function (x) {
-  lazy.emit('data', x);
-});
-	  
 
+var cb = function() {
+	con.collection('foo', function(err, col) {
+		col.insert({'a':123});
+	});
+}
 

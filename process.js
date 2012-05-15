@@ -7,17 +7,36 @@ var Lazy = require("lazy");
 var Db = require('mongodb').Db,
 	Connection = require('mongodb').Connection,
     Server = require('mongodb').Server;
-var db = new Db('test', new Server('ryang3', 27017, {}), {native_parser:false});
 
-function save(message){
-	var db = new Db('test', new Server('ryang3', 27017, {}), {native_parser:false});
-	db.open(function(err, db){
-		db.collection('foo', function(err, collection) {
-			collection.insert(message);
-			db.close();
+var server = new Db('test', new Server('ryang3', 27017, {}), {native_parser:false});
+var _db;
+var buffer = [];
+
+server.open(function(err, db){
+		_db = db
+		save();
+});
+
+var busy = false;
+var wasteCount = 0;
+
+var save = function(message){
+	if(busy || !_db) {
+		wasteCount++
+		console.log(wasteCount);
+		return;
+	}
+	var m = buffer.shift();
+	if(m) {
+		busy = true;
+		_db.collection('foo', function(err, col) {
+			col.insert(m, function(doc) {
+				busy = false;
+				save();
+			});
 		});
-	});	
-}
+	}
+};
 
 var	m = {},
 	pcq = {}, //populate candidate queue.
@@ -53,7 +72,8 @@ var lazy = new Lazy(readStream).lines.forEach(function(line) {
 				m.endTime = new Date(l.split(',')[1]);
 				m.id = parseInt(l.split(',')[3],10);
 				m.duration = m.endTime - m.startTime;
-				save(m);
+				buffer.push(m);
+				save();
 			} else if(/Database:/.test(l)) {
 				database = l.split(',')[2].split(':')[1].replace(/\s*|\r/g,'');
 			} else if(/Queue_Id =/.test(l)) {
